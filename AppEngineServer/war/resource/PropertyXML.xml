@@ -1,0 +1,5004 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<propertyData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<property>
+		<Address>659b Jurong West Street 65</Address>
+		<PostalCode>642659</PostalCode>
+		<Latitude>1.33671412885474</Latitude>
+		<Longitude>103.701847503434</Longitude>
+		<AgreedPrice>448000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>313</UnitNo>
+	</property>
+	<property>
+		<Address>Eight Courtyards</Address>
+		<PostalCode>768140</PostalCode>
+		<Latitude>1.43857097713649</Latitude>
+		<Longitude>103.83136663783</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>7</UnitNo>
+	</property>
+	<property>
+		<Address>Casa Cambio</Address>
+		<PostalCode>547726</PostalCode>
+		<Latitude>1.35375780079895</Latitude>
+		<Longitude>103.876408062999</Longitude>
+		<AgreedPrice>3300</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>West Bay Condominium</Address>
+		<PostalCode>128040</PostalCode>
+		<Latitude>1.29903971913774</Latitude>
+		<Longitude>103.765475219548</Longitude>
+		<AgreedPrice>1320000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>38 Kim Pong Road</Address>
+		<PostalCode>161038</PostalCode>
+		<Latitude>1.28486750974852</Latitude>
+		<Longitude>103.830500093909</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>Aquarine Gardens</Address>
+		<PostalCode>455225</PostalCode>
+		<Latitude>1.31351053412138</Latitude>
+		<Longitude>103.928150216085</Longitude>
+		<AgreedPrice>3700</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>21 Chai Chee Road</Address>
+		<PostalCode>461021</PostalCode>
+		<Latitude>1.32576657246469</Latitude>
+		<Longitude>103.922427804802</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>452</UnitNo>
+	</property>
+	<property>
+		<Address>518c Tampines Central 7</Address>
+		<PostalCode>523518</PostalCode>
+		<Latitude>1.35637056336336</Latitude>
+		<Longitude>103.938988144233</Longitude>
+		<AgreedPrice>650000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>50</UnitNo>
+	</property>
+	<property>
+		<Address>The Windsor</Address>
+		<PostalCode>576192</PostalCode>
+		<Latitude>1.35696298618679</Latitude>
+		<Longitude>103.828544203376</Longitude>
+		<AgreedPrice>3600</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>Island View</Address>
+		<PostalCode>119519</PostalCode>
+		<Latitude>1.27963540920128</Latitude>
+		<Longitude>103.792134854367</Longitude>
+		<AgreedPrice>3880000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>The Estuary</Address>
+		<PostalCode>769133</PostalCode>
+		<Latitude>1.41050564441896</Latitude>
+		<Longitude>103.830475731837</Longitude>
+		<AgreedPrice>1200000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>Tangerine Grove</Address>
+		<PostalCode>534239</PostalCode>
+		<Latitude>1.35025662165874</Latitude>
+		<Longitude>103.880579426532</Longitude>
+		<AgreedPrice>1600000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>25</UnitNo>
+	</property>
+	<property>
+		<Address>The Linear</Address>
+		<PostalCode>678181</PostalCode>
+		<Latitude>1.37525218760435</Latitude>
+		<Longitude>103.762883787162</Longitude>
+		<AgreedPrice>1288000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>4</UnitNo>
+	</property>
+	<property>
+		<Address>221c Bedok Central</Address>
+		<PostalCode>463221</PostalCode>
+		<Latitude>1.3249301902102</Latitude>
+		<Longitude>103.934145575627</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>94</UnitNo>
+	</property>
+	<property>
+		<Address>Butterworth 8</Address>
+		<PostalCode>439422</PostalCode>
+		<Latitude>1.31206668190556</Latitude>
+		<Longitude>103.895121964996</Longitude>
+		<AgreedPrice>1700000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>1</UnitFloor>
+		<UnitNo>7</UnitNo>
+	</property>
+	<property>
+		<Address>108 Tampines Street 11</Address>
+		<PostalCode>521108</PostalCode>
+		<Latitude>1.34787103211908</Latitude>
+		<Longitude>103.948574151058</Longitude>
+		<AgreedPrice>700</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>317</UnitNo>
+	</property>
+	<property>
+		<Address>874a Tampines Street 84</Address>
+		<PostalCode>521874</PostalCode>
+		<Latitude>1.35308863619389</Latitude>
+		<Longitude>103.932247604523</Longitude>
+		<AgreedPrice>650000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>115</UnitNo>
+	</property>
+	<property>
+		<Address>Casa Cambio</Address>
+		<PostalCode>547726</PostalCode>
+		<Latitude>1.35375780079895</Latitude>
+		<Longitude>103.876408062999</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>256 Compassvale Road</Address>
+		<PostalCode>540256</PostalCode>
+		<Latitude>1.39381963718664</Latitude>
+		<Longitude>103.899190129424</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>680</UnitNo>
+	</property>
+	<property>
+		<Address>274 Yishun Street 22</Address>
+		<PostalCode>760274</PostalCode>
+		<Latitude>1.43737900185615</Latitude>
+		<Longitude>103.83881198417</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>144</UnitNo>
+	</property>
+	<property>
+		<Address>565 Pasir Ris Street 51</Address>
+		<PostalCode>510565</PostalCode>
+		<Latitude>1.368854917327</Latitude>
+		<Longitude>103.950296028956</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>124</UnitNo>
+	</property>
+	<property>
+		<Address>535 Jurong West Street 52</Address>
+		<PostalCode>640535</PostalCode>
+		<Latitude>1.3494227309939</Latitude>
+		<Longitude>103.717012992343</Longitude>
+		<AgreedPrice>305000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>483</UnitNo>
+	</property>
+	<property>
+		<Address>405 Ang Mo Kio Avenue 10</Address>
+		<PostalCode>560405</PostalCode>
+		<Latitude>1.36158246901101</Latitude>
+		<Longitude>103.853807098956</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>679</UnitNo>
+	</property>
+	<property>
+		<Address>Clementi Park</Address>
+		<PostalCode>597156</PostalCode>
+		<Latitude>1.32843772774189</Latitude>
+		<Longitude>103.765463347237</Longitude>
+		<AgreedPrice>1800000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>204d Punggol Field</Address>
+		<PostalCode>824204</PostalCode>
+		<Latitude>1.39824116866613</Latitude>
+		<Longitude>103.902661217036</Longitude>
+		<AgreedPrice>438000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>354</UnitNo>
+	</property>
+	<property>
+		<Address>463 Ang Mo Kio Avenue 10</Address>
+		<PostalCode>560463</PostalCode>
+		<Latitude>1.36711620689726</Latitude>
+		<Longitude>103.857138555418</Longitude>
+		<AgreedPrice>720000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>1096</UnitNo>
+	</property>
+	<property>
+		<Address>Eastwood Regency</Address>
+		<PostalCode>486398</PostalCode>
+		<Latitude>1.32145153378708</Latitude>
+		<Longitude>103.957839746359</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>15</UnitNo>
+	</property>
+	<property>
+		<Address>643 Pasir Ris Drive 10</Address>
+		<PostalCode>510643</PostalCode>
+		<Latitude>1.37775125476287</Latitude>
+		<Longitude>103.937965273075</Longitude>
+		<AgreedPrice>680000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>26</UnitNo>
+	</property>
+	<property>
+		<Address>232 Serangoon Avenue 3</Address>
+		<PostalCode>550232</PostalCode>
+		<Latitude>1.35475171360653</Latitude>
+		<Longitude>103.868728606327</Longitude>
+		<AgreedPrice>485000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>66</UnitNo>
+	</property>
+	<property>
+		<Address>633 Pasir Ris Drive 3</Address>
+		<PostalCode>510633</PostalCode>
+		<Latitude>1.37801667189368</Latitude>
+		<Longitude>103.940686627551</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>424</UnitNo>
+	</property>
+	<property>
+		<Address>148 Mei Ling Street</Address>
+		<PostalCode>140148</PostalCode>
+		<Latitude>1.29431681043192</Latitude>
+		<Longitude>103.804466544178</Longitude>
+		<AgreedPrice>890000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>105</UnitNo>
+	</property>
+	<property>
+		<Address>611 Jurong West Street 65</Address>
+		<PostalCode>640611</PostalCode>
+		<Latitude>1.33896046385929</Latitude>
+		<Longitude>103.7008265966</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>518</UnitNo>
+	</property>
+	<property>
+		<Address>613 Bukit Panjang Ring Road</Address>
+		<PostalCode>670613</PostalCode>
+		<Latitude>1.38406017214264</Latitude>
+		<Longitude>103.761928627697</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>862</UnitNo>
+	</property>
+	<property>
+		<Address>51 Strathmore Avenue</Address>
+		<PostalCode>140051</PostalCode>
+		<Latitude>1.29335423245164</Latitude>
+		<Longitude>103.80880525772</Longitude>
+		<AgreedPrice>625000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>191</UnitNo>
+	</property>
+	<property>
+		<Address>102 Rivervale Walk</Address>
+		<PostalCode>540102</PostalCode>
+		<Latitude>1.38180681945458</Latitude>
+		<Longitude>103.900895246109</Longitude>
+		<AgreedPrice>628000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>70</UnitNo>
+	</property>
+	<property>
+		<Address>926 Tampines Street 91</Address>
+		<PostalCode>520926</PostalCode>
+		<Latitude>1.34601604498254</Latitude>
+		<Longitude>103.940985977509</Longitude>
+		<AgreedPrice>525000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>299</UnitNo>
+	</property>
+	<property>
+		<Address>513 Jelapang Road</Address>
+		<PostalCode>670513</PostalCode>
+		<Latitude>1.38805373873753</Latitude>
+		<Longitude>103.767721846756</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>225</UnitNo>
+	</property>
+	<property>
+		<Address>544 Hougang Avenue 8</Address>
+		<PostalCode>530544</PostalCode>
+		<Latitude>1.37845440257242</Latitude>
+		<Longitude>103.891897730701</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>1257</UnitNo>
+	</property>
+	<property>
+		<Address>212 Bukit Batok Street 21</Address>
+		<PostalCode>650212</PostalCode>
+		<Latitude>1.34718473842903</Latitude>
+		<Longitude>103.752217338676</Longitude>
+		<AgreedPrice>2200</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>245</UnitNo>
+	</property>
+	<property>
+		<Address>453 Pasir Ris Drive 6</Address>
+		<PostalCode>510453</PostalCode>
+		<Latitude>1.37186653616324</Latitude>
+		<Longitude>103.957400999348</Longitude>
+		<AgreedPrice>404000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>222</UnitNo>
+	</property>
+	<property>
+		<Address>623 Jurong West Street 61</Address>
+		<PostalCode>640623</PostalCode>
+		<Latitude>1.34032750950202</Latitude>
+		<Longitude>103.698246882749</Longitude>
+		<AgreedPrice>387000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>189</UnitNo>
+	</property>
+	<property>
+		<Address>275a Compassvale Link</Address>
+		<PostalCode>541275</PostalCode>
+		<Latitude>1.38276373568033</Latitude>
+		<Longitude>103.894598439537</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>252</UnitNo>
+	</property>
+	<property>
+		<Address>76 Bedok North Road</Address>
+		<PostalCode>460076</PostalCode>
+		<Latitude>1.32830650032446</Latitude>
+		<Longitude>103.942065689663</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>180</UnitNo>
+	</property>
+	<property>
+		<Address>102 Gangsa Road</Address>
+		<PostalCode>670102</PostalCode>
+		<Latitude>1.37910478356795</Latitude>
+		<Longitude>103.768152733837</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>29</UnitNo>
+	</property>
+	<property>
+		<Address>554 Woodlands Drive 53</Address>
+		<PostalCode>730554</PostalCode>
+		<Latitude>1.43208513480223</Latitude>
+		<Longitude>103.79649784383</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>21</UnitNo>
+	</property>
+	<property>
+		<Address>114 Bedok Reservoir Road</Address>
+		<PostalCode>470114</PostalCode>
+		<Latitude>1.33055276231971</Latitude>
+		<Longitude>103.909849814675</Longitude>
+		<AgreedPrice>628000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>154</UnitNo>
+	</property>
+	<property>
+		<Address>115 Bedok Reservoir Road</Address>
+		<PostalCode>470115</PostalCode>
+		<Latitude>1.33067057201407</Latitude>
+		<Longitude>103.908739644383</Longitude>
+		<AgreedPrice>600000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>116</UnitNo>
+	</property>
+	<property>
+		<Address>544 Woodlands Drive 16</Address>
+		<PostalCode>730544</PostalCode>
+		<Latitude>1.42861107292463</Latitude>
+		<Longitude>103.793090121864</Longitude>
+		<AgreedPrice>398000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>95</UnitNo>
+	</property>
+	<property>
+		<Address>Trevose Park</Address>
+		<PostalCode>298069</PostalCode>
+		<Latitude>1.32540113061857</Latitude>
+		<Longitude>103.825298949785</Longitude>
+		<AgreedPrice>1900000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>12</UnitNo>
+	</property>
+	<property>
+		<Address>Flamingo Valley</Address>
+		<PostalCode>454944</PostalCode>
+		<Latitude>1.317878</Latitude>
+		<Longitude>103.922467</Longitude>
+		<AgreedPrice>5500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>40</UnitNo>
+	</property>
+	<property>
+		<Address>269a Compassvale Link</Address>
+		<PostalCode>541269</PostalCode>
+		<Latitude>1.38371492846918</Latitude>
+		<Longitude>103.895589295667</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>115</UnitNo>
+	</property>
+	<property>
+		<Address>424 Choa Chu Kang Avenue 4</Address>
+		<PostalCode>680424</PostalCode>
+		<Latitude>1.38147680147998</Latitude>
+		<Longitude>103.740309028636</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>206</UnitNo>
+	</property>
+	<property>
+		<Address>402 Bedok North Avenue 3</Address>
+		<PostalCode>460402</PostalCode>
+		<Latitude>1.3305557551949</Latitude>
+		<Longitude>103.933683470237</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>273</UnitNo>
+	</property>
+	<property>
+		<Address>758 Pasir Ris Street 71</Address>
+		<PostalCode>510758</PostalCode>
+		<Latitude>1.37682235823221</Latitude>
+		<Longitude>103.933322025909</Longitude>
+		<AgreedPrice>540000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>180</UnitNo>
+	</property>
+	<property>
+		<Address>290f Bukit Batok Street 24</Address>
+		<PostalCode>655290</PostalCode>
+		<Latitude>1.34334753406608</Latitude>
+		<Longitude>103.757573348733</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>105</UnitNo>
+	</property>
+	<property>
+		<Address>75 Telok Blangah Drive</Address>
+		<PostalCode>100075</PostalCode>
+		<Latitude>1.27490120056664</Latitude>
+		<Longitude>103.808696245299</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>300</UnitNo>
+	</property>
+	<property>
+		<Address>Rosewood Suites</Address>
+		<PostalCode>737874</PostalCode>
+		<Latitude>1.42944607775583</Latitude>
+		<Longitude>103.786304788234</Longitude>
+		<AgreedPrice>750000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>501c Wellington Circle</Address>
+		<PostalCode>753501</PostalCode>
+		<Latitude>1.45118692169244</Latitude>
+		<Longitude>103.821829543946</Longitude>
+		<AgreedPrice>429000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>62</UnitNo>
+	</property>
+	<property>
+		<Address>Kovan Grandeur</Address>
+		<PostalCode>535193</PostalCode>
+		<Latitude>1.36092102703566</Latitude>
+		<Longitude>103.892062102173</Longitude>
+		<AgreedPrice>950000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>612 Woodlands Avenue 4</Address>
+		<PostalCode>730612</PostalCode>
+		<Latitude>1.43508536483896</Latitude>
+		<Longitude>103.796731664233</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>451</UnitNo>
+	</property>
+	<property>
+		<Address>448 Pasir Ris Drive 6</Address>
+		<PostalCode>510448</PostalCode>
+		<Latitude>1.37058343553614</Latitude>
+		<Longitude>103.958105617671</Longitude>
+		<AgreedPrice>630000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>150</UnitNo>
+	</property>
+	<property>
+		<Address>761 Choa Chu Kang North 5</Address>
+		<PostalCode>680761</PostalCode>
+		<Latitude>1.39295106378143</Latitude>
+		<Longitude>103.747754314229</Longitude>
+		<AgreedPrice>475000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>179</UnitNo>
+	</property>
+	<property>
+		<Address>205 Choa Chu Kang Central</Address>
+		<PostalCode>680205</PostalCode>
+		<Latitude>1.38092576705576</Latitude>
+		<Longitude>103.748559203113</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>60</UnitNo>
+	</property>
+	<property>
+		<Address>498j Tampines Street 45</Address>
+		<PostalCode>527498</PostalCode>
+		<Latitude>1.36331243573729</Latitude>
+		<Longitude>103.956894182311</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>466</UnitNo>
+	</property>
+	<property>
+		<Address>485 Admiralty Link</Address>
+		<PostalCode>750485</PostalCode>
+		<Latitude>1.45645540709785</Latitude>
+		<Longitude>103.815866365661</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>69</UnitNo>
+	</property>
+	<property>
+		<Address>520 Serangoon North Avenue 4</Address>
+		<PostalCode>550520</PostalCode>
+		<Latitude>1.3720354710639</Latitude>
+		<Longitude>103.873724419222</Longitude>
+		<AgreedPrice>595000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>172</UnitNo>
+	</property>
+	<property>
+		<Address>703 Tampines Street 71</Address>
+		<PostalCode>520703</PostalCode>
+		<Latitude>1.35687848096831</Latitude>
+		<Longitude>103.937739189204</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>2</UnitFloor>
+		<UnitNo>32</UnitNo>
+	</property>
+	<property>
+		<Address>Savannah Condopark</Address>
+		<PostalCode>528794</PostalCode>
+		<Latitude>1.34934978429998</Latitude>
+		<Longitude>103.96096193199</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>61</UnitNo>
+	</property>
+	<property>
+		<Address>The Azure</Address>
+		<PostalCode>98584</PostalCode>
+		<Latitude>1.25124834299086</Latitude>
+		<Longitude>103.847859495577</Longitude>
+		<AgreedPrice>2900000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>5</UnitNo>
+	</property>
+	<property>
+		<Address>471 Pasir Ris Drive 6</Address>
+		<PostalCode>510471</PostalCode>
+		<Latitude>1.37415112308983</Latitude>
+		<Longitude>103.957816130596</Longitude>
+		<AgreedPrice>650000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>482</UnitNo>
+	</property>
+	<property>
+		<Address>The Palette</Address>
+		<PostalCode>518198</PostalCode>
+		<Latitude>1.37029772565401</Latitude>
+		<Longitude>103.944067905019</Longitude>
+		<AgreedPrice>1300000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>17</UnitNo>
+	</property>
+	<property>
+		<Address>399 Yishun Avenue 6</Address>
+		<PostalCode>760399</PostalCode>
+		<Latitude>1.42753009116466</Latitude>
+		<Longitude>103.847319383338</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1184</UnitNo>
+	</property>
+	<property>
+		<Address>The Vision</Address>
+		<PostalCode>126793</PostalCode>
+		<Latitude>1.29822259362824</Latitude>
+		<Longitude>103.764612989778</Longitude>
+		<AgreedPrice>3900</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>The Lakefront Residences</Address>
+		<PostalCode>648305</PostalCode>
+		<Latitude>1.34305885308796</Latitude>
+		<Longitude>103.719195713208</Longitude>
+		<AgreedPrice>3200</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>788d Woodlands Crescent</Address>
+		<PostalCode>734788</PostalCode>
+		<Latitude>1.44391479738498</Latitude>
+		<Longitude>103.802551726484</Longitude>
+		<AgreedPrice>540000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>182</UnitNo>
+	</property>
+	<property>
+		<Address>537 Bedok North Street 3</Address>
+		<PostalCode>460537</PostalCode>
+		<Latitude>1.33175209907806</Latitude>
+		<Longitude>103.924237071568</Longitude>
+		<AgreedPrice>310000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>529</UnitNo>
+	</property>
+	<property>
+		<Address>63 Telok Blangah Heights</Address>
+		<PostalCode>100063</PostalCode>
+		<Latitude>1.27482426882723</Latitude>
+		<Longitude>103.810945612609</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>231</UnitNo>
+	</property>
+	<property>
+		<Address>417 Bedok North Avenue 2</Address>
+		<PostalCode>460417</PostalCode>
+		<Latitude>1.32757681194577</Latitude>
+		<Longitude>103.930483627858</Longitude>
+		<AgreedPrice>650000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>Casa Fortuna</Address>
+		<PostalCode>329981</PostalCode>
+		<Latitude>1.32847281375041</Latitude>
+		<Longitude>103.848358640569</Longitude>
+		<AgreedPrice>950000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>8</UnitNo>
+	</property>
+	<property>
+		<Address>339 Woodlands Avenue 1</Address>
+		<PostalCode>730339</PostalCode>
+		<Latitude>1.43100233117769</Latitude>
+		<Longitude>103.781599569152</Longitude>
+		<AgreedPrice>2600</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>549</UnitNo>
+	</property>
+	<property>
+		<Address>729 Jurong West Avenue 5</Address>
+		<PostalCode>640729</PostalCode>
+		<Latitude>1.34640784467463</Latitude>
+		<Longitude>103.697801303754</Longitude>
+		<AgreedPrice>388000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>216</UnitNo>
+	</property>
+	<property>
+		<Address>14b Lorong 7 Toa Payoh</Address>
+		<PostalCode>312014</PostalCode>
+		<Latitude>1.33573627071467</Latitude>
+		<Longitude>103.858405054572</Longitude>
+		<AgreedPrice>595000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>245</UnitNo>
+	</property>
+	<property>
+		<Address>103 Yishun Ring Road</Address>
+		<PostalCode>760103</PostalCode>
+		<Latitude>1.43136957912924</Latitude>
+		<Longitude>103.828892851191</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>51</UnitNo>
+	</property>
+	<property>
+		<Address>611 Choa Chu Kang Street 62</Address>
+		<PostalCode>680611</PostalCode>
+		<Latitude>1.39973928384429</Latitude>
+		<Longitude>103.743861777131</Longitude>
+		<AgreedPrice>520000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>171</UnitNo>
+	</property>
+	<property>
+		<Address>493b Tampines Avenue 9</Address>
+		<PostalCode>521493</PostalCode>
+		<Latitude>1.36225773327134</Latitude>
+		<Longitude>103.952048883514</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>478</UnitNo>
+	</property>
+	<property>
+		<Address>The Greenwich</Address>
+		<PostalCode>807012</PostalCode>
+		<Latitude>1.3871975573234</Latitude>
+		<Longitude>103.869333537396</Longitude>
+		<AgreedPrice>3300</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>12</UnitNo>
+	</property>
+	<property>
+		<Address>775 Woodlands Crescent</Address>
+		<PostalCode>730775</PostalCode>
+		<Latitude>1.44850389887105</Latitude>
+		<Longitude>103.799883578179</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>18</UnitNo>
+	</property>
+	<property>
+		<Address>Regent Grove</Address>
+		<PostalCode>689529</PostalCode>
+		<Latitude>1.39891738540492</Latitude>
+		<Longitude>103.749086603279</Longitude>
+		<AgreedPrice>860000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>Residences 88</Address>
+		<PostalCode>417297</PostalCode>
+		<Latitude>1.32622950339939</Latitude>
+		<Longitude>103.907796889276</Longitude>
+		<AgreedPrice>800000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>4</UnitNo>
+	</property>
+	<property>
+		<Address>538 Jelapang Road</Address>
+		<PostalCode>670538</PostalCode>
+		<Latitude>1.38387053462443</Latitude>
+		<Longitude>103.763690792731</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>26</UnitNo>
+	</property>
+	<property>
+		<Address>470 Sembawang Drive</Address>
+		<PostalCode>750470</PostalCode>
+		<Latitude>1.45157683021954</Latitude>
+		<Longitude>103.815161081715</Longitude>
+		<AgreedPrice>385000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>445</UnitNo>
+	</property>
+	<property>
+		<Address>Flamingo Valley</Address>
+		<PostalCode>454946</PostalCode>
+		<Latitude>1.317878</Latitude>
+		<Longitude>103.922467</Longitude>
+		<AgreedPrice>4200</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>51</UnitNo>
+	</property>
+	<property>
+		<Address>201d Tampines Street 21</Address>
+		<PostalCode>524201</PostalCode>
+		<Latitude>1.35226218145167</Latitude>
+		<Longitude>103.953603743842</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1111</UnitNo>
+	</property>
+	<property>
+		<Address>176a Edgefield Plains</Address>
+		<PostalCode>821176</PostalCode>
+		<Latitude>1.39899796939829</Latitude>
+		<Longitude>103.90814594177</Longitude>
+		<AgreedPrice>470000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>160</UnitNo>
+	</property>
+	<property>
+		<Address>168a The Sundial</Address>
+		<PostalCode>821168</PostalCode>
+		<Latitude>1.39455852767079</Latitude>
+		<Longitude>103.914233385353</Longitude>
+		<AgreedPrice>470000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>381</UnitNo>
+	</property>
+	<property>
+		<Address>167 Hougang Avenue 1</Address>
+		<PostalCode>530167</PostalCode>
+		<Latitude>1.35177277208916</Latitude>
+		<Longitude>103.88857373105</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1568</UnitNo>
+	</property>
+	<property>
+		<Address>816 Lavender Gardens</Address>
+		<PostalCode>200816</PostalCode>
+		<Latitude>1.30689870581223</Latitude>
+		<Longitude>103.861128343387</Longitude>
+		<AgreedPrice>768000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>308 Clementi Avenue 4</Address>
+		<PostalCode>120308</PostalCode>
+		<Latitude>1.32105794868151</Latitude>
+		<Longitude>103.766899667595</Longitude>
+		<AgreedPrice>2200</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>345</UnitNo>
+	</property>
+	<property>
+		<Address>Terrene At Bukit Timah</Address>
+		<PostalCode>598678</PostalCode>
+		<Latitude>1.34144302171715</Latitude>
+		<Longitude>103.770796515225</Longitude>
+		<AgreedPrice>3600</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>17</UnitNo>
+	</property>
+	<property>
+		<Address>16 Cantonment Close</Address>
+		<PostalCode>80016</PostalCode>
+		<Latitude>1.27390754832867</Latitude>
+		<Longitude>103.84026882629</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>45</UnitNo>
+	</property>
+	<property>
+		<Address>659c Jurong West Street 65</Address>
+		<PostalCode>643659</PostalCode>
+		<Latitude>1.33639798279153</Latitude>
+		<Longitude>103.701863361784</Longitude>
+		<AgreedPrice>2900</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>351</UnitNo>
+	</property>
+	<property>
+		<Address>Flamingo Valley</Address>
+		<PostalCode>454852</PostalCode>
+		<Latitude>1.31861531319514</Latitude>
+		<Longitude>103.922554299399</Longitude>
+		<AgreedPrice>4000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>71</UnitNo>
+	</property>
+	<property>
+		<Address>855 Tampines Street 83</Address>
+		<PostalCode>520855</PostalCode>
+		<Latitude>1.35358250917966</Latitude>
+		<Longitude>103.9352994786</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>254</UnitNo>
+	</property>
+	<property>
+		<Address>Sunville</Address>
+		<PostalCode>327981</PostalCode>
+		<Latitude>1.32671206809748</Latitude>
+		<Longitude>103.864116543886</Longitude>
+		<AgreedPrice>3500</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>101 Ah Hood Road</Address>
+		<PostalCode>320101</PostalCode>
+		<Latitude>1.32739816893864</Latitude>
+		<Longitude>103.844481163547</Longitude>
+		<AgreedPrice>680000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>4</UnitNo>
+	</property>
+	<property>
+		<Address>43 Moh Guan Terrace</Address>
+		<PostalCode>160043</PostalCode>
+		<Latitude>1.28466986135063</Latitude>
+		<Longitude>103.831049173721</Longitude>
+		<AgreedPrice>610000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>32</UnitNo>
+	</property>
+	<property>
+		<Address>Eight Courtyards</Address>
+		<PostalCode>768138</PostalCode>
+		<Latitude>1.43857097713649</Latitude>
+		<Longitude>103.83136663783</Longitude>
+		<AgreedPrice>2500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>344 Yishun Avenue 11</Address>
+		<PostalCode>760344</PostalCode>
+		<Latitude>1.42903387474804</Latitude>
+		<Longitude>103.844303076749</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>159</UnitNo>
+	</property>
+	<property>
+		<Address>171a Edgedale Plains</Address>
+		<PostalCode>821171</PostalCode>
+		<Latitude>1.39462625436267</Latitude>
+		<Longitude>103.91241342413</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>430</UnitNo>
+	</property>
+	<property>
+		<Address>14 St. Georges Road</Address>
+		<PostalCode>320014</PostalCode>
+		<Latitude>1.32369795424235</Latitude>
+		<Longitude>103.862091724538</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>50</UnitNo>
+	</property>
+	<property>
+		<Address>341a Sembawang Close</Address>
+		<PostalCode>751341</PostalCode>
+		<Latitude>1.44757802171586</Latitude>
+		<Longitude>103.81860777519</Longitude>
+		<AgreedPrice>2200</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>59</UnitNo>
+	</property>
+	<property>
+		<Address>Blossomvale</Address>
+		<PostalCode>589473</PostalCode>
+		<Latitude>1.33685005751346</Latitude>
+		<Longitude>103.78256926613</Longitude>
+		<AgreedPrice>1800000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>Parc Vista</Address>
+		<PostalCode>649814</PostalCode>
+		<Latitude>1.3442433448886</Latitude>
+		<Longitude>103.71753643291</Longitude>
+		<AgreedPrice>2900</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>145 Yishun Street 11</Address>
+		<PostalCode>760145</PostalCode>
+		<Latitude>1.43084264635863</Latitude>
+		<Longitude>103.83185792352</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>338 Tampines Street 33</Address>
+		<PostalCode>520338</PostalCode>
+		<Latitude>1.35191835060649</Latitude>
+		<Longitude>103.959646787585</Longitude>
+		<AgreedPrice>440000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>210</UnitNo>
+	</property>
+	<property>
+		<Address>148 Potong Pasir Avenue 1</Address>
+		<PostalCode>350148</PostalCode>
+		<Latitude>1.33270900172114</Latitude>
+		<Longitude>103.867989927159</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>43</UnitNo>
+	</property>
+	<property>
+		<Address>782 Yishun Ring Road</Address>
+		<PostalCode>760782</PostalCode>
+		<Latitude>1.42196401802763</Latitude>
+		<Longitude>103.831761213917</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>3586</UnitNo>
+	</property>
+	<property>
+		<Address>Terrene At Bukit Timah</Address>
+		<PostalCode>598681</PostalCode>
+		<Latitude>1.34179901863122</Latitude>
+		<Longitude>103.770566744534</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>30</UnitNo>
+	</property>
+	<property>
+		<Address>290g Bukit Batok Street 24</Address>
+		<PostalCode>656290</PostalCode>
+		<Latitude>1.34339208483933</Latitude>
+		<Longitude>103.757053674278</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>93</UnitNo>
+	</property>
+	<property>
+		<Address>426 Jurong West Avenue 1</Address>
+		<PostalCode>640426</PostalCode>
+		<Latitude>1.3515873708397</Latitude>
+		<Longitude>103.724640152149</Longitude>
+		<AgreedPrice>499000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>348</UnitNo>
+	</property>
+	<property>
+		<Address>93 Bedok North Avenue 4</Address>
+		<PostalCode>460093</PostalCode>
+		<Latitude>1.33288450938679</Latitude>
+		<Longitude>103.94131105884</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>3</UnitFloor>
+		<UnitNo>1469</UnitNo>
+	</property>
+	<property>
+		<Address>796a Yishun Ring Road</Address>
+		<PostalCode>761796</PostalCode>
+		<Latitude>1.41936325790659</Latitude>
+		<Longitude>103.833078053142</Longitude>
+		<AgreedPrice>315000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>3386</UnitNo>
+	</property>
+	<property>
+		<Address>789 Yishun Avenue 2</Address>
+		<PostalCode>760789</PostalCode>
+		<Latitude>1.42057072555879</Latitude>
+		<Longitude>103.834174893958</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>1477</UnitNo>
+	</property>
+	<property>
+		<Address>518c Tampines Central 7</Address>
+		<PostalCode>523518</PostalCode>
+		<Latitude>1.35637056336336</Latitude>
+		<Longitude>103.938988144233</Longitude>
+		<AgreedPrice>670000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>60</UnitNo>
+	</property>
+	<property>
+		<Address>409 Saujana Road</Address>
+		<PostalCode>670409</PostalCode>
+		<Latitude>1.38242997071384</Latitude>
+		<Longitude>103.767677665779</Longitude>
+		<AgreedPrice>2500</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>126</UnitNo>
+	</property>
+	<property>
+		<Address>503 Hougang Avenue 8</Address>
+		<PostalCode>530503</PostalCode>
+		<Latitude>1.37370675646497</Latitude>
+		<Longitude>103.887653824071</Longitude>
+		<AgreedPrice>370000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>732</UnitNo>
+	</property>
+	<property>
+		<Address>The Bale</Address>
+		<PostalCode>425991</PostalCode>
+		<Latitude>1.31508445653397</Latitude>
+		<Longitude>103.906369240256</Longitude>
+		<AgreedPrice>1200000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>417 Bukit Batok West Avenue 4</Address>
+		<PostalCode>650417</PostalCode>
+		<Latitude>1.36289428319554</Latitude>
+		<Longitude>103.746306142458</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>292</UnitNo>
+	</property>
+	<property>
+		<Address>Edelweiss Park Condominium</Address>
+		<PostalCode>507000</PostalCode>
+		<Latitude>1.35701055653133</Latitude>
+		<Longitude>103.967570357545</Longitude>
+		<AgreedPrice>899000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>195 Kim Keat View</Address>
+		<PostalCode>310195</PostalCode>
+		<Latitude>1.33020072430465</Latitude>
+		<Longitude>103.858774376874</Longitude>
+		<AgreedPrice>299000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>350</UnitNo>
+	</property>
+	<property>
+		<Address>Ampas Apartment</Address>
+		<PostalCode>329506</PostalCode>
+		<Latitude>1.3261948731865</Latitude>
+		<Longitude>103.8510667887</Longitude>
+		<AgreedPrice>3700</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>101 Commonwealth Crescent</Address>
+		<PostalCode>140101</PostalCode>
+		<Latitude>1.30804796087144</Latitude>
+		<Longitude>103.800843560426</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>126</UnitNo>
+	</property>
+	<property>
+		<Address>796 Woodlands Drive 72</Address>
+		<PostalCode>730796</PostalCode>
+		<Latitude>1.44300061248545</Latitude>
+		<Longitude>103.803160837406</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>39</UnitNo>
+	</property>
+	<property>
+		<Address>30 Jalan Klinik</Address>
+		<PostalCode>160030</PostalCode>
+		<Latitude>1.28767967399968</Latitude>
+		<Longitude>103.828196861491</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>27</UnitNo>
+	</property>
+	<property>
+		<Address>197 Pasir Ris Street 12</Address>
+		<PostalCode>510197</PostalCode>
+		<Latitude>1.36625564912848</Latitude>
+		<Longitude>103.96062912686</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>110</UnitNo>
+	</property>
+	<property>
+		<Address>154 Serangoon North Avenue 1</Address>
+		<PostalCode>550154</PostalCode>
+		<Latitude>1.36984505382941</Latitude>
+		<Longitude>103.87332368313</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>420</UnitNo>
+	</property>
+	<property>
+		<Address>893a Woodlands Drive 50</Address>
+		<PostalCode>730893</PostalCode>
+		<Latitude>1.43675749633128</Latitude>
+		<Longitude>103.790493379708</Longitude>
+		<AgreedPrice>580000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>131</UnitNo>
+	</property>
+	<property>
+		<Address>154 Bukit Batok Street 11</Address>
+		<PostalCode>650154</PostalCode>
+		<Latitude>1.34773482602699</Latitude>
+		<Longitude>103.743983049435</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>308</UnitNo>
+	</property>
+	<property>
+		<Address>702 Hougang Avenue 2</Address>
+		<PostalCode>530702</PostalCode>
+		<Latitude>1.36572506716555</Latitude>
+		<Longitude>103.889751492484</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>41</UnitNo>
+	</property>
+	<property>
+		<Address>347 Bukit Batok Street 34</Address>
+		<PostalCode>650347</PostalCode>
+		<Latitude>1.36226969441902</Latitude>
+		<Longitude>103.751190053889</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>264</UnitNo>
+	</property>
+	<property>
+		<Address>220 Bukit Batok East Avenue 3</Address>
+		<PostalCode>650220</PostalCode>
+		<Latitude>1.34745638290142</Latitude>
+		<Longitude>103.754708446899</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>184</UnitNo>
+	</property>
+	<property>
+		<Address>La Casa</Address>
+		<PostalCode>737894</PostalCode>
+		<Latitude>1.43270407814478</Latitude>
+		<Longitude>103.79743525634</Longitude>
+		<AgreedPrice>845000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>31</UnitNo>
+	</property>
+	<property>
+		<Address>133 Yishun Street 11</Address>
+		<PostalCode>760133</PostalCode>
+		<Latitude>1.43255579081747</Latitude>
+		<Longitude>103.830787067641</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>183</UnitNo>
+	</property>
+	<property>
+		<Address>440 Jurong West Avenue 1</Address>
+		<PostalCode>640440</PostalCode>
+		<Latitude>1.3513131584722</Latitude>
+		<Longitude>103.722835780243</Longitude>
+		<AgreedPrice>310000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>486</UnitNo>
+	</property>
+	<property>
+		<Address>35 Marine Crescent Ville</Address>
+		<PostalCode>440035</PostalCode>
+		<Latitude>1.30292061478539</Latitude>
+		<Longitude>103.912652451183</Longitude>
+		<AgreedPrice>850</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>81</UnitNo>
+	</property>
+	<property>
+		<Address>841 Tampines Street 83</Address>
+		<PostalCode>520841</PostalCode>
+		<Latitude>1.35161540819067</Latitude>
+		<Longitude>103.934489430727</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>116</UnitNo>
+	</property>
+	<property>
+		<Address>841 Tampines Street 83</Address>
+		<PostalCode>520841</PostalCode>
+		<Latitude>1.35161540819067</Latitude>
+		<Longitude>103.934489430727</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>116</UnitNo>
+	</property>
+	<property>
+		<Address>62 Commonwealth Drive</Address>
+		<PostalCode>140062</PostalCode>
+		<Latitude>1.29849341447104</Latitude>
+		<Longitude>103.797071270336</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>177</UnitNo>
+	</property>
+	<property>
+		<Address>209 Petir Road</Address>
+		<PostalCode>670209</PostalCode>
+		<Latitude>1.37416139588016</Latitude>
+		<Longitude>103.775839832418</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>487</UnitNo>
+	</property>
+	<property>
+		<Address>350 Yishun Avenue 11</Address>
+		<PostalCode>760350</PostalCode>
+		<Latitude>1.42545668258711</Latitude>
+		<Longitude>103.844120591811</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>239</UnitNo>
+	</property>
+	<property>
+		<Address>Ola Residences</Address>
+		<PostalCode>437830</PostalCode>
+		<Latitude>1.30276955690315</Latitude>
+		<Longitude>103.89862851794</Longitude>
+		<AgreedPrice>6500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>642 Hougang Avenue 8</Address>
+		<PostalCode>530642</PostalCode>
+		<Latitude>1.37170344674503</Latitude>
+		<Longitude>103.879938974235</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>199</UnitNo>
+	</property>
+	<property>
+		<Address>609 Elias Road</Address>
+		<PostalCode>510609</PostalCode>
+		<Latitude>1.37548751040849</Latitude>
+		<Longitude>103.942727905669</Longitude>
+		<AgreedPrice>650000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>176</UnitNo>
+	</property>
+	<property>
+		<Address>17 Lorong 9 Geylang</Address>
+		<PostalCode>388761</PostalCode>
+		<Latitude>1.31298458521389</Latitude>
+		<Longitude>103.876190138974</Longitude>
+		<AgreedPrice>1100000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>104 Gangsa Road</Address>
+		<PostalCode>670104</PostalCode>
+		<Latitude>1.37880735141335</Latitude>
+		<Longitude>103.767969900267</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>49</UnitNo>
+	</property>
+	<property>
+		<Address>67 Bedok South Avenue 3</Address>
+		<PostalCode>460067</PostalCode>
+		<Latitude>1.31897396383284</Latitude>
+		<Longitude>103.944075762098</Longitude>
+		<AgreedPrice>690000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>500</UnitNo>
+	</property>
+	<property>
+		<Address>Parc Oasis</Address>
+		<PostalCode>609778</PostalCode>
+		<Latitude>1.34220238537282</Latitude>
+		<Longitude>103.735134745162</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>85b Lorong 4 Toa Payoh</Address>
+		<PostalCode>312085</PostalCode>
+		<Latitude>1.33631450385617</Latitude>
+		<Longitude>103.848443089631</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>4</UnitFloor>
+		<UnitNo>350</UnitNo>
+	</property>
+	<property>
+		<Address>The Lakefront Residences</Address>
+		<PostalCode>648305</PostalCode>
+		<Latitude>1.34305885308796</Latitude>
+		<Longitude>103.719195713208</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>34</UnitNo>
+	</property>
+	<property>
+		<Address>The Woodgrove</Address>
+		<PostalCode>738230</PostalCode>
+		<Latitude>1.428820913583</Latitude>
+		<Longitude>103.78148875864</Longitude>
+		<AgreedPrice>718000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>8</UnitNo>
+	</property>
+	<property>
+		<Address>Regent Residences</Address>
+		<PostalCode>328190</PostalCode>
+		<Latitude>1.32427122889942</Latitude>
+		<Longitude>103.864487787084</Longitude>
+		<AgreedPrice>1090000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>501d Wellington Circle</Address>
+		<PostalCode>754501</PostalCode>
+		<Latitude>1.45104692016223</Latitude>
+		<Longitude>103.82243243437</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>80</UnitNo>
+	</property>
+	<property>
+		<Address>728 Yishun Street 71</Address>
+		<PostalCode>760728</PostalCode>
+		<Latitude>1.42578440280282</Latitude>
+		<Longitude>103.830756469068</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>137</UnitNo>
+	</property>
+	<property>
+		<Address>75b Redhill Road</Address>
+		<PostalCode>152075</PostalCode>
+		<Latitude>1.2884088996918</Latitude>
+		<Longitude>103.815864600724</Longitude>
+		<AgreedPrice>750000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>62</UnitNo>
+	</property>
+	<property>
+		<Address>490 Admiralty Link</Address>
+		<PostalCode>750490</PostalCode>
+		<Latitude>1.45529596902483</Latitude>
+		<Longitude>103.817240886956</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>97</UnitNo>
+	</property>
+	<property>
+		<Address>Kovan Melody</Address>
+		<PostalCode>548193</PostalCode>
+		<Latitude>1.36030339136701</Latitude>
+		<Longitude>103.883731019729</Longitude>
+		<AgreedPrice>1388000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>20</UnitNo>
+	</property>
+	<property>
+		<Address>60 Dakota Crescent</Address>
+		<PostalCode>390060</PostalCode>
+		<Latitude>1.30725949916317</Latitude>
+		<Longitude>103.888503921965</Longitude>
+		<AgreedPrice>2900</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>245</UnitNo>
+	</property>
+	<property>
+		<Address>268 Bishan Street 24</Address>
+		<PostalCode>570268</PostalCode>
+		<Latitude>1.35761488586225</Latitude>
+		<Longitude>103.842145613346</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>168</UnitNo>
+	</property>
+	<property>
+		<Address>576 Ang Mo Kio Avenue 10</Address>
+		<PostalCode>560576</PostalCode>
+		<Latitude>1.37140612556505</Latitude>
+		<Longitude>103.854849740021</Longitude>
+		<AgreedPrice>2200</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>1907</UnitNo>
+	</property>
+	<property>
+		<Address>Parc Emily</Address>
+		<PostalCode>228495</PostalCode>
+		<Latitude>1.30347443354875</Latitude>
+		<Longitude>103.84912760161</Longitude>
+		<AgreedPrice>4800</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>3a Upper Boon Keng Road</Address>
+		<PostalCode>381003</PostalCode>
+		<Latitude>1.31385984527844</Latitude>
+		<Longitude>103.872473967944</Longitude>
+		<AgreedPrice>638000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>602</UnitNo>
+	</property>
+	<property>
+		<Address>308 Jurong East Street 32</Address>
+		<PostalCode>600308</PostalCode>
+		<Latitude>1.34729323057841</Latitude>
+		<Longitude>103.734571449664</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>268</UnitNo>
+	</property>
+	<property>
+		<Address>138 Yishun Ring Road</Address>
+		<PostalCode>760138</PostalCode>
+		<Latitude>1.43161108314456</Latitude>
+		<Longitude>103.83061428705</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>88</UnitNo>
+	</property>
+	<property>
+		<Address>Parc Rosewood</Address>
+		<PostalCode>737788</PostalCode>
+		<Latitude>1.42835354832247</Latitude>
+		<Longitude>103.785587282688</Longitude>
+		<AgreedPrice>3600</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>52</UnitNo>
+	</property>
+	<property>
+		<Address>The Estuary</Address>
+		<PostalCode>769138</PostalCode>
+		<Latitude>1.41089990154552</Latitude>
+		<Longitude>103.832147431792</Longitude>
+		<AgreedPrice>1250000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>35</UnitNo>
+	</property>
+	<property>
+		<Address>The Greenwich</Address>
+		<PostalCode>807013</PostalCode>
+		<Latitude>1.38715928598578</Latitude>
+		<Longitude>103.869832920806</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>649 Jalan Tenaga</Address>
+		<PostalCode>410649</PostalCode>
+		<Latitude>1.33237198574577</Latitude>
+		<Longitude>103.906117413605</Longitude>
+		<AgreedPrice>570000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>153</UnitNo>
+	</property>
+	<property>
+		<Address>882 Tampines Street 84</Address>
+		<PostalCode>521882</PostalCode>
+		<Latitude>1.35205498076114</Latitude>
+		<Longitude>103.933456030285</Longitude>
+		<AgreedPrice>530000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>84</UnitNo>
+	</property>
+	<property>
+		<Address>770 Yishun Avenue 3</Address>
+		<PostalCode>760770</PostalCode>
+		<Latitude>1.42447895488369</Latitude>
+		<Longitude>103.832536624469</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>255</UnitNo>
+	</property>
+	<property>
+		<Address>365 Woodlands Avenue 5</Address>
+		<PostalCode>730365</PostalCode>
+		<Latitude>1.43431838129952</Latitude>
+		<Longitude>103.787634150744</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>486</UnitNo>
+	</property>
+	<property>
+		<Address>645 Punggol Central</Address>
+		<PostalCode>820645</PostalCode>
+		<Latitude>1.39765079924746</Latitude>
+		<Longitude>103.916276340586</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>346</UnitNo>
+	</property>
+	<property>
+		<Address>329 Bukit Batok Street 33</Address>
+		<PostalCode>650329</PostalCode>
+		<Latitude>1.36329614763034</Latitude>
+		<Longitude>103.747602041225</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>97</UnitNo>
+	</property>
+	<property>
+		<Address>St Patricks Residences</Address>
+		<PostalCode>423467</PostalCode>
+		<Latitude>1.30806385771441</Latitude>
+		<Longitude>103.914653146353</Longitude>
+		<AgreedPrice>4000000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>20</UnitNo>
+	</property>
+	<property>
+		<Address>362 Clementi Avenue 2</Address>
+		<PostalCode>120362</PostalCode>
+		<Latitude>1.31271074671115</Latitude>
+		<Longitude>103.769899478608</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>405</UnitNo>
+	</property>
+	<property>
+		<Address>1 Jalan Bukit Merah</Address>
+		<PostalCode>150001</PostalCode>
+		<Latitude>1.28648818105357</Latitude>
+		<Longitude>103.808255641509</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>4506</UnitNo>
+	</property>
+	<property>
+		<Address>3d Upper Boon Keng Road</Address>
+		<PostalCode>384003</PostalCode>
+		<Latitude>1.31328836248429</Latitude>
+		<Longitude>103.87284205885</Longitude>
+		<AgreedPrice>2900</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>644</UnitNo>
+	</property>
+	<property>
+		<Address>176 Ang Mo Kio Avenue 4</Address>
+		<PostalCode>560176</PostalCode>
+		<Latitude>1.37584908244471</Latitude>
+		<Longitude>103.836159209403</Longitude>
+		<AgreedPrice>750000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>735</UnitNo>
+	</property>
+	<property>
+		<Address>308c Anchorvale Road</Address>
+		<PostalCode>543308</PostalCode>
+		<Latitude>1.38922787333105</Latitude>
+		<Longitude>103.886846400556</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>24</UnitNo>
+	</property>
+	<property>
+		<Address>118 Lorong 1 Toa Payoh</Address>
+		<PostalCode>310118</PostalCode>
+		<Latitude>1.33954946223334</Latitude>
+		<Longitude>103.844890952218</Longitude>
+		<AgreedPrice>370000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>427</UnitNo>
+	</property>
+	<property>
+		<Address>Suites @ Guillemard</Address>
+		<PostalCode>438133</PostalCode>
+		<Latitude>1.31251431111661</Latitude>
+		<Longitude>103.891731295184</Longitude>
+		<AgreedPrice>1450000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>2 Ghim Moh Road</Address>
+		<PostalCode>270002</PostalCode>
+		<Latitude>1.31238210705921</Latitude>
+		<Longitude>103.786971702112</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>334</UnitNo>
+	</property>
+	<property>
+		<Address>Residences Botanique</Address>
+		<PostalCode>545550</PostalCode>
+		<Latitude>1.3571475991119</Latitude>
+		<Longitude>103.876050179366</Longitude>
+		<AgreedPrice>4200</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>407a Fernvale Road</Address>
+		<PostalCode>791407</PostalCode>
+		<Latitude>1.38836859065558</Latitude>
+		<Longitude>103.875352053823</Longitude>
+		<AgreedPrice>530000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>25</UnitNo>
+	</property>
+	<property>
+		<Address>Northwood</Address>
+		<PostalCode>757488</PostalCode>
+		<Latitude>1.42684553119879</Latitude>
+		<Longitude>103.824407690485</Longitude>
+		<AgreedPrice>1750000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>25</UnitNo>
+	</property>
+	<property>
+		<Address>310 Clementi Avenue 4</Address>
+		<PostalCode>120310</PostalCode>
+		<Latitude>1.3202894667093</Latitude>
+		<Longitude>103.765948508205</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>5</UnitFloor>
+		<UnitNo>267</UnitNo>
+	</property>
+	<property>
+		<Address>196 Bishan Street 13</Address>
+		<PostalCode>570196</PostalCode>
+		<Latitude>1.34805312116458</Latitude>
+		<Longitude>103.850726147843</Longitude>
+		<AgreedPrice>800000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>563</UnitNo>
+	</property>
+	<property>
+		<Address>95 Bedok North Avenue 4</Address>
+		<PostalCode>460095</PostalCode>
+		<Latitude>1.3338658095628</Latitude>
+		<Longitude>103.942058115733</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>1411</UnitNo>
+	</property>
+	<property>
+		<Address>776 Pasir Ris Street 71</Address>
+		<PostalCode>510776</PostalCode>
+		<Latitude>1.37454928852734</Latitude>
+		<Longitude>103.937088173539</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>412</UnitNo>
+	</property>
+	<property>
+		<Address>424 Ang Mo Kio Avenue 3</Address>
+		<PostalCode>560424</PostalCode>
+		<Latitude>1.36826818593359</Latitude>
+		<Longitude>103.850897451924</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>2402</UnitNo>
+	</property>
+	<property>
+		<Address>416 Saujana Road</Address>
+		<PostalCode>670416</PostalCode>
+		<Latitude>1.38319093273594</Latitude>
+		<Longitude>103.768452836345</Longitude>
+		<AgreedPrice>365000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>50</UnitNo>
+	</property>
+	<property>
+		<Address>425 Fajar Road</Address>
+		<PostalCode>670425</PostalCode>
+		<Latitude>1.38585903285004</Latitude>
+		<Longitude>103.769497286291</Longitude>
+		<AgreedPrice>490000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>537</UnitNo>
+	</property>
+	<property>
+		<Address>630 Woodlands Ring Road</Address>
+		<PostalCode>730630</PostalCode>
+		<Latitude>1.43477999011366</Latitude>
+		<Longitude>103.801666024805</Longitude>
+		<AgreedPrice>370000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>230</UnitNo>
+	</property>
+	<property>
+		<Address>111 Teck Whye Lane</Address>
+		<PostalCode>680111</PostalCode>
+		<Latitude>1.37787591735565</Latitude>
+		<Longitude>103.752104655488</Longitude>
+		<AgreedPrice>325000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>620</UnitNo>
+	</property>
+	<property>
+		<Address>491g Tampines Street 45</Address>
+		<PostalCode>526491</PostalCode>
+		<Latitude>1.36317973610718</Latitude>
+		<Longitude>103.954467913018</Longitude>
+		<AgreedPrice>515000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>268</UnitNo>
+	</property>
+	<property>
+		<Address>651 Senja Link</Address>
+		<PostalCode>670651</PostalCode>
+		<Latitude>1.38660902758054</Latitude>
+		<Longitude>103.763653349988</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>44</UnitNo>
+	</property>
+	<property>
+		<Address>126 Yishun Street 11</Address>
+		<PostalCode>760126</PostalCode>
+		<Latitude>1.43353660872435</Latitude>
+		<Longitude>103.830147977061</Longitude>
+		<AgreedPrice>335000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>419</UnitNo>
+	</property>
+	<property>
+		<Address>109 Bishan View</Address>
+		<PostalCode>570109</PostalCode>
+		<Latitude>1.34674688434329</Latitude>
+		<Longitude>103.847991248925</Longitude>
+		<AgreedPrice>510000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>168</UnitNo>
+	</property>
+	<property>
+		<Address>Dorsett Residences</Address>
+		<PostalCode>88764</PostalCode>
+		<Latitude>1.27994123625439</Latitude>
+		<Longitude>103.840252695707</Longitude>
+		<AgreedPrice>4700</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>16</UnitNo>
+	</property>
+	<property>
+		<Address>23 Toa Payoh East</Address>
+		<PostalCode>310023</PostalCode>
+		<Latitude>1.33457447302955</Latitude>
+		<Longitude>103.857185520813</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>227</UnitNo>
+	</property>
+	<property>
+		<Address>Melville Park</Address>
+		<PostalCode>529944</PostalCode>
+		<Latitude>1.34926736701663</Latitude>
+		<Longitude>103.957718025178</Longitude>
+		<AgreedPrice>850000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>14</UnitNo>
+	</property>
+	<property>
+		<Address>Suites At Orchard</Address>
+		<PostalCode>229239</PostalCode>
+		<Latitude>1.30040735255441</Latitude>
+		<Longitude>103.845981811966</Longitude>
+		<AgreedPrice>5300</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>310 Jurong East Street 32</Address>
+		<PostalCode>600310</PostalCode>
+		<Latitude>1.34820581012202</Latitude>
+		<Longitude>103.733806378052</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>304</UnitNo>
+	</property>
+	<property>
+		<Address>215 Bukit Batok Street 21</Address>
+		<PostalCode>650215</PostalCode>
+		<Latitude>1.34675423553943</Latitude>
+		<Longitude>103.753618182474</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>333</UnitNo>
+	</property>
+	<property>
+		<Address>743 Pasir Ris Street 71</Address>
+		<PostalCode>510743</PostalCode>
+		<Latitude>1.37729582306893</Latitude>
+		<Longitude>103.935564359541</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>225 Pending Road</Address>
+		<PostalCode>670225</PostalCode>
+		<Latitude>1.37553107215083</Latitude>
+		<Longitude>103.772544816967</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>169</UnitNo>
+	</property>
+	<property>
+		<Address>612a Damai Grove</Address>
+		<PostalCode>821612</PostalCode>
+		<Latitude>1.40412996156738</Latitude>
+		<Longitude>103.909202005579</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>803</UnitNo>
+	</property>
+	<property>
+		<Address>510b Wellington View</Address>
+		<PostalCode>752510</PostalCode>
+		<Latitude>1.45382172579256</Latitude>
+		<Longitude>103.820882385519</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>73</UnitNo>
+	</property>
+	<property>
+		<Address>403 Serangoon Avenue 1</Address>
+		<PostalCode>550403</PostalCode>
+		<Latitude>1.34625421442692</Latitude>
+		<Longitude>103.872400913092</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>25</UnitNo>
+	</property>
+	<property>
+		<Address>The Linear</Address>
+		<PostalCode>678187</PostalCode>
+		<Latitude>1.37525218760435</Latitude>
+		<Longitude>103.762883787162</Longitude>
+		<AgreedPrice>1400000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>23</UnitNo>
+	</property>
+	<property>
+		<Address>620 Bukit Panjang Ring Road</Address>
+		<PostalCode>670620</PostalCode>
+		<Latitude>1.38587771094083</Latitude>
+		<Longitude>103.761741732461</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>828</UnitNo>
+	</property>
+	<property>
+		<Address>64 Kallang Bahru</Address>
+		<PostalCode>330064</PostalCode>
+		<Latitude>1.32036884446116</Latitude>
+		<Longitude>103.86834079282</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>385</UnitNo>
+	</property>
+	<property>
+		<Address>232 Yishun Street 21</Address>
+		<PostalCode>760232</PostalCode>
+		<Latitude>1.43459888204462</Latitude>
+		<Longitude>103.837412927947</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>548</UnitNo>
+	</property>
+	<property>
+		<Address>127 Ang Mo Kio Avenue 3</Address>
+		<PostalCode>560127</PostalCode>
+		<Latitude>1.37121879839317</Latitude>
+		<Longitude>103.843592640502</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>1893</UnitNo>
+	</property>
+	<property>
+		<Address>45 Bendemeer Road</Address>
+		<PostalCode>330045</PostalCode>
+		<Latitude>1.3223955285561</Latitude>
+		<Longitude>103.866126526413</Longitude>
+		<AgreedPrice>330000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>1445</UnitNo>
+	</property>
+	<property>
+		<Address>Parc Vista</Address>
+		<PostalCode>649811</PostalCode>
+		<Latitude>1.3442433448886</Latitude>
+		<Longitude>103.71753643291</Longitude>
+		<AgreedPrice>2950</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>5</UnitNo>
+	</property>
+	<property>
+		<Address>172b Edgedale Plains</Address>
+		<PostalCode>822172</PostalCode>
+		<Latitude>1.3958481831939</Latitude>
+		<Longitude>103.911922966441</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>488</UnitNo>
+	</property>
+	<property>
+		<Address>370 Bukit Batok Street 31</Address>
+		<PostalCode>650370</PostalCode>
+		<Latitude>1.35997592827715</Latitude>
+		<Longitude>103.749561202511</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>205</UnitNo>
+	</property>
+	<property>
+		<Address>193 Rivervale Drive</Address>
+		<PostalCode>540193</PostalCode>
+		<Latitude>1.393628326327</Latitude>
+		<Longitude>103.901775020482</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>789</UnitNo>
+	</property>
+	<property>
+		<Address>47 Marine Crescent</Address>
+		<PostalCode>440047</PostalCode>
+		<Latitude>1.30571087539895</Latitude>
+		<Longitude>103.912381590931</Longitude>
+		<AgreedPrice>2350</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>78</UnitNo>
+	</property>
+	<property>
+		<Address>692b Choa Chu Kang Crescent</Address>
+		<PostalCode>682692</PostalCode>
+		<Latitude>1.40072493184793</Latitude>
+		<Longitude>103.751509939978</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>22</UnitNo>
+	</property>
+	<property>
+		<Address>304 Hougang Avenue 5</Address>
+		<PostalCode>530304</PostalCode>
+		<Latitude>1.36782609840682</Latitude>
+		<Longitude>103.89527345911</Longitude>
+		<AgreedPrice>355000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>385</UnitNo>
+	</property>
+	<property>
+		<Address>759 Pasir Ris Street 71</Address>
+		<PostalCode>510759</PostalCode>
+		<Latitude>1.37625666307662</Latitude>
+		<Longitude>103.932847206207</Longitude>
+		<AgreedPrice>530000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>192</UnitNo>
+	</property>
+	<property>
+		<Address>468a Admiralty Drive</Address>
+		<PostalCode>751468</PostalCode>
+		<Latitude>1.45049606847825</Latitude>
+		<Longitude>103.813840829441</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>123</UnitNo>
+	</property>
+	<property>
+		<Address>843 Woodlands Street 82</Address>
+		<PostalCode>730843</PostalCode>
+		<Latitude>1.44312417606961</Latitude>
+		<Longitude>103.792779743859</Longitude>
+		<AgreedPrice>335000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>79</UnitNo>
+	</property>
+	<property>
+		<Address>251 Pasir Ris Street 21</Address>
+		<PostalCode>510251</PostalCode>
+		<Latitude>1.37019457267287</Latitude>
+		<Longitude>103.96244406492</Longitude>
+		<AgreedPrice>590000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>137</UnitNo>
+	</property>
+	<property>
+		<Address>45 Tanglin Halt Road</Address>
+		<PostalCode>141045</PostalCode>
+		<Latitude>1.2991766823959</Latitude>
+		<Longitude>103.798515841683</Longitude>
+		<AgreedPrice>440000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>275</UnitNo>
+	</property>
+	<property>
+		<Address>136 Simei Street 1</Address>
+		<PostalCode>520136</PostalCode>
+		<Latitude>1.34793509469852</Latitude>
+		<Longitude>103.956340653508</Longitude>
+		<AgreedPrice>580000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>84</UnitNo>
+	</property>
+	<property>
+		<Address>434 Ang Mo Kio Avenue 10</Address>
+		<PostalCode>560434</PostalCode>
+		<Latitude>1.36790192526318</Latitude>
+		<Longitude>103.853463126042</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>1425</UnitNo>
+	</property>
+	<property>
+		<Address>Savannah Condopark</Address>
+		<PostalCode>528782</PostalCode>
+		<Latitude>1.34957273528637</Latitude>
+		<Longitude>103.962181955292</Longitude>
+		<AgreedPrice>1200000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>15</UnitNo>
+	</property>
+	<property>
+		<Address>291b Compassvale Street</Address>
+		<PostalCode>542291</PostalCode>
+		<Latitude>1.39584384820392</Latitude>
+		<Longitude>103.898497201145</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>248</UnitNo>
+	</property>
+	<property>
+		<Address>359 Admiralty Drive</Address>
+		<PostalCode>750359</PostalCode>
+		<Latitude>1.44964299068445</Latitude>
+		<Longitude>103.815970871359</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>196</UnitNo>
+	</property>
+	<property>
+		<Address>673 Choa Chu Kang Crescent</Address>
+		<PostalCode>680673</PostalCode>
+		<Latitude>1.40127828675648</Latitude>
+		<Longitude>103.748044964519</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>6</UnitFloor>
+		<UnitNo>387</UnitNo>
+	</property>
+	<property>
+		<Address>Spring Grove</Address>
+		<PostalCode>249565</PostalCode>
+		<Latitude>1.2981085373056</Latitude>
+		<Longitude>103.827803251154</Longitude>
+		<AgreedPrice>2375000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>114 Yishun Ring Road</Address>
+		<PostalCode>760114</PostalCode>
+		<Latitude>1.43414447934634</Latitude>
+		<Longitude>103.827015744046</Longitude>
+		<AgreedPrice>310000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>549</UnitNo>
+	</property>
+	<property>
+		<Address>4 Jalan Batu</Address>
+		<PostalCode>431004</PostalCode>
+		<Latitude>1.30186335095898</Latitude>
+		<Longitude>103.884036641609</Longitude>
+		<AgreedPrice>370000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>123</UnitNo>
+	</property>
+	<property>
+		<Address>984d Buangkok Link</Address>
+		<PostalCode>537984</PostalCode>
+		<Latitude>1.38243776521712</Latitude>
+		<Longitude>103.880859397881</Longitude>
+		<AgreedPrice>1500</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>29</UnitNo>
+	</property>
+	<property>
+		<Address>236 Serangoon Avenue 3</Address>
+		<PostalCode>550236</PostalCode>
+		<Latitude>1.35424403239253</Latitude>
+		<Longitude>103.869824577974</Longitude>
+		<AgreedPrice>505000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>100</UnitNo>
+	</property>
+	<property>
+		<Address>56 Cassia Crescent</Address>
+		<PostalCode>391056</PostalCode>
+		<Latitude>1.31024746726409</Latitude>
+		<Longitude>103.883235331503</Longitude>
+		<AgreedPrice>680000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>9</UnitNo>
+	</property>
+	<property>
+		<Address>211 Jurong East Street 21</Address>
+		<PostalCode>600211</PostalCode>
+		<Latitude>1.33865106242825</Latitude>
+		<Longitude>103.740037084529</Longitude>
+		<AgreedPrice>350000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>327</UnitNo>
+	</property>
+	<property>
+		<Address>Sophia Residence</Address>
+		<PostalCode>228196</PostalCode>
+		<Latitude>1.30082589443809</Latitude>
+		<Longitude>103.848872865512</Longitude>
+		<AgreedPrice>8300</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>29</UnitNo>
+	</property>
+	<property>
+		<Address>Sophia Residence</Address>
+		<PostalCode>228196</PostalCode>
+		<Latitude>1.30082589443809</Latitude>
+		<Longitude>103.848872865512</Longitude>
+		<AgreedPrice>3300000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>29</UnitNo>
+	</property>
+	<property>
+		<Address>295 Tampines Street 22</Address>
+		<PostalCode>520295</PostalCode>
+		<Latitude>1.35077545736093</Latitude>
+		<Longitude>103.954997941318</Longitude>
+		<AgreedPrice>358000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>504</UnitNo>
+	</property>
+	<property>
+		<Address>389 Yishun Avenue 6</Address>
+		<PostalCode>760389</PostalCode>
+		<Latitude>1.42958356055909</Latitude>
+		<Longitude>103.848295842937</Longitude>
+		<AgreedPrice>323000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>1052</UnitNo>
+	</property>
+	<property>
+		<Address>233 Jurong East Street 21</Address>
+		<PostalCode>600233</PostalCode>
+		<Latitude>1.34036434049186</Latitude>
+		<Longitude>103.740931525551</Longitude>
+		<AgreedPrice>488000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>426</UnitNo>
+	</property>
+	<property>
+		<Address>492c Tampines Street 45</Address>
+		<PostalCode>522492</PostalCode>
+		<Latitude>1.36338354237025</Latitude>
+		<Longitude>103.953767688723</Longitude>
+		<AgreedPrice>540000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>288</UnitNo>
+	</property>
+	<property>
+		<Address>898 Tampines Street 81</Address>
+		<PostalCode>520898</PostalCode>
+		<Latitude>1.34728570477855</Latitude>
+		<Longitude>103.934756609589</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>788</UnitNo>
+	</property>
+	<property>
+		<Address>713 Woodlands Drive 70</Address>
+		<PostalCode>730713</PostalCode>
+		<Latitude>1.44196688340354</Latitude>
+		<Longitude>103.797811597201</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>75</UnitNo>
+	</property>
+	<property>
+		<Address>754 Woodlands Circle</Address>
+		<PostalCode>731754</PostalCode>
+		<Latitude>1.44528939634499</Latitude>
+		<Longitude>103.793929283215</Longitude>
+		<AgreedPrice>395000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>568</UnitNo>
+	</property>
+	<property>
+		<Address>Hillview Green</Address>
+		<PostalCode>598745</PostalCode>
+		<Latitude>1.35753868849165</Latitude>
+		<Longitude>103.763781131401</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>5</UnitNo>
+	</property>
+	<property>
+		<Address>140 Yishun Ring Road</Address>
+		<PostalCode>760140</PostalCode>
+		<Latitude>1.43118078683182</Latitude>
+		<Longitude>103.830604025616</Longitude>
+		<AgreedPrice>305000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>62</UnitNo>
+	</property>
+	<property>
+		<Address>194 Rivervale Drive</Address>
+		<PostalCode>540194</PostalCode>
+		<Latitude>1.39264405417992</Latitude>
+		<Longitude>103.901745285081</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>767</UnitNo>
+	</property>
+	<property>
+		<Address>412 Saujana Road</Address>
+		<PostalCode>670412</PostalCode>
+		<Latitude>1.38290356634098</Latitude>
+		<Longitude>103.768276382055</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>70</UnitNo>
+	</property>
+	<property>
+		<Address>Hazel Park Condo</Address>
+		<PostalCode>678946</PostalCode>
+		<Latitude>1.37392914611522</Latitude>
+		<Longitude>103.765236049096</Longitude>
+		<AgreedPrice>1400000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>339 Clementi Avenue 5</Address>
+		<PostalCode>120339</PostalCode>
+		<Latitude>1.31966444617855</Latitude>
+		<Longitude>103.769139487796</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>262</UnitNo>
+	</property>
+	<property>
+		<Address>515 Jurong West Street 52</Address>
+		<PostalCode>640515</PostalCode>
+		<Latitude>1.34630194642795</Latitude>
+		<Longitude>103.720624569342</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>7</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>340 Bukit Batok Street 34</Address>
+		<PostalCode>650340</PostalCode>
+		<Latitude>1.36314441885819</Latitude>
+		<Longitude>103.749539087235</Longitude>
+		<AgreedPrice>295000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>44</UnitNo>
+	</property>
+	<property>
+		<Address>Savannah Condopark</Address>
+		<PostalCode>528794</PostalCode>
+		<Latitude>1.34934978429998</Latitude>
+		<Longitude>103.96096193199</Longitude>
+		<AgreedPrice>1220000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>64</UnitNo>
+	</property>
+	<property>
+		<Address>Pebble Bay</Address>
+		<PostalCode>436918</PostalCode>
+		<Latitude>1.29738611220661</Latitude>
+		<Longitude>103.871905527934</Longitude>
+		<AgreedPrice>3100000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>518d Tampines Central 7</Address>
+		<PostalCode>524518</PostalCode>
+		<Latitude>1.35637276669633</Latitude>
+		<Longitude>103.939269026398</Longitude>
+		<AgreedPrice>710000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>44</UnitNo>
+	</property>
+
+	<property>
+		<Address>Tampines Court</Address>
+		<PostalCode>521119</PostalCode>
+		<Latitude>1.34530267189795</Latitude>
+		<Longitude>103.946988459293</Longitude>
+		<AgreedPrice>930000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>178</UnitNo>
+	</property>
+	<property>
+		<Address>Whitewater</Address>
+		<PostalCode>518768</PostalCode>
+		<Latitude>1.38042648805483</Latitude>
+		<Longitude>103.935233404929</Longitude>
+		<AgreedPrice>1070000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>20</UnitNo>
+	</property>
+	<property>
+		<Address>306 Serangoon Avenue 2</Address>
+		<PostalCode>550306</PostalCode>
+		<Latitude>1.35417387838237</Latitude>
+		<Longitude>103.866884725823</Longitude>
+		<AgreedPrice>398000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>58</UnitNo>
+	</property>
+	<property>
+		<Address>Modena</Address>
+		<PostalCode>529869</PostalCode>
+		<Latitude>1.34253326854378</Latitude>
+		<Longitude>103.95503054567</Longitude>
+		<AgreedPrice>1458000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>4</UnitNo>
+	</property>
+	<property>
+		<Address>Rosewood</Address>
+		<PostalCode>737940</PostalCode>
+		<Latitude>1.43143464287542</Latitude>
+		<Longitude>103.78701060195</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>26</UnitNo>
+	</property>
+	<property>
+		<Address>Hillview Park</Address>
+		<PostalCode>669554</PostalCode>
+		<Latitude>1.36453691607013</Latitude>
+		<Longitude>103.76564114586</Longitude>
+		<AgreedPrice>950000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>670a Jurong West Street 65</Address>
+		<PostalCode>641670</PostalCode>
+		<Latitude>1.34409981043006</Latitude>
+		<Longitude>103.702859901747</Longitude>
+		<AgreedPrice>465000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>78</UnitNo>
+	</property>
+	<property>
+		<Address>The Serenade @ Holland</Address>
+		<PostalCode>278698</PostalCode>
+		<Latitude>1.31846463705824</Latitude>
+		<Longitude>103.779858523424</Longitude>
+		<AgreedPrice>5000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>519 West Coast Road</Address>
+		<PostalCode>120519</PostalCode>
+		<Latitude>1.30769669743311</Latitude>
+		<Longitude>103.759353285625</Longitude>
+		<AgreedPrice>438000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>609</UnitNo>
+	</property>
+	<property>
+		<Address>632 Jurong West Street 65</Address>
+		<PostalCode>640632</PostalCode>
+		<Latitude>1.3439712525213</Latitude>
+		<Longitude>103.699814496392</Longitude>
+		<AgreedPrice>475000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>292</UnitNo>
+	</property>
+	<property>
+		<Address>564 Ang Mo Kio Avenue 3</Address>
+		<PostalCode>560564</PostalCode>
+		<Latitude>1.36973047633055</Latitude>
+		<Longitude>103.859194123516</Longitude>
+		<AgreedPrice>355000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>3463</UnitNo>
+	</property>
+	<property>
+		<Address>221 Lorong 8 Toa Payoh</Address>
+		<PostalCode>310221</PostalCode>
+		<Latitude>1.34261601139329</Latitude>
+		<Longitude>103.856971507551</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>673</UnitNo>
+	</property>
+	<property>
+		<Address>660 Woodlands Ring Road</Address>
+		<PostalCode>730660</PostalCode>
+		<Latitude>1.43551868680168</Latitude>
+		<Longitude>103.79939693578</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>136</UnitNo>
+	</property>
+	<property>
+		<Address>Pinevale</Address>
+		<PostalCode>528828</PostalCode>
+		<Latitude>1.35836363227378</Latitude>
+		<Longitude>103.933334129468</Longitude>
+		<AgreedPrice>1020000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>4</UnitNo>
+	</property>
+	<property>
+		<Address>9 Lorong 7 Toa Payoh</Address>
+		<PostalCode>310009</PostalCode>
+		<Latitude>1.33749240209794</Latitude>
+		<Longitude>103.857839495481</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>323</UnitNo>
+	</property>
+	<property>
+		<Address>453 Fajar Road</Address>
+		<PostalCode>670453</PostalCode>
+		<Latitude>1.38545294106663</Latitude>
+		<Longitude>103.771670250827</Longitude>
+		<AgreedPrice>570000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>704</UnitNo>
+	</property>
+	<property>
+		<Address>542 Hougang Avenue 8</Address>
+		<PostalCode>530542</PostalCode>
+		<Latitude>1.37695173352971</Latitude>
+		<Longitude>103.891748638794</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>1281</UnitNo>
+	</property>
+	<property>
+		<Address>154 Simei Street 1</Address>
+		<PostalCode>520154</PostalCode>
+		<Latitude>1.34479661612988</Latitude>
+		<Longitude>103.957002833052</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>89</UnitNo>
+	</property>
+	<property>
+		<Address>523 Bukit Batok Street 52</Address>
+		<PostalCode>650523</PostalCode>
+		<Latitude>1.35670759617641</Latitude>
+		<Longitude>103.752498318274</Longitude>
+		<AgreedPrice>293000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>713</UnitNo>
+	</property>
+	<property>
+		<Address>411 Hougang Avenue 10</Address>
+		<PostalCode>530411</PostalCode>
+		<Latitude>1.37408083990427</Latitude>
+		<Longitude>103.895310407365</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>1008</UnitNo>
+	</property>
+	<property>
+		<Address>894a Tampines Street 81</Address>
+		<PostalCode>521894</PostalCode>
+		<Latitude>1.34801300147658</Latitude>
+		<Longitude>103.931916279608</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>896</UnitNo>
+	</property>
+	<property>
+		<Address>659d Jurong West Street 65</Address>
+		<PostalCode>644659</PostalCode>
+		<Latitude>1.33640834368389</Latitude>
+		<Longitude>103.702478907828</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>337</UnitNo>
+	</property>
+	<property>
+		<Address>Clementi Park</Address>
+		<PostalCode>597159</PostalCode>
+		<Latitude>1.33080236530976</Latitude>
+		<Longitude>103.766015885245</Longitude>
+		<AgreedPrice>2200000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>7</UnitNo>
+	</property>
+	<property>
+		<Address>138 Bedok North Street 2</Address>
+		<PostalCode>460138</PostalCode>
+		<Latitude>1.33000825221689</Latitude>
+		<Longitude>103.936337525988</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>189</UnitNo>
+	</property>
+	<property>
+		<Address>522 Jelapang Road</Address>
+		<PostalCode>670522</PostalCode>
+		<Latitude>1.38633600094201</Latitude>
+		<Longitude>103.766165398796</Longitude>
+		<AgreedPrice>470000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>301</UnitNo>
+	</property>
+	<property>
+		<Address>2 Ghim Moh Road</Address>
+		<PostalCode>270002</PostalCode>
+		<Latitude>1.31238210705921</Latitude>
+		<Longitude>103.786971702112</Longitude>
+		<AgreedPrice>395000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>318</UnitNo>
+	</property>
+	<property>
+		<Address>Eunos Mansion</Address>
+		<PostalCode>419535</PostalCode>
+		<Latitude>1.32944642566005</Latitude>
+		<Longitude>103.905720840528</Longitude>
+		<AgreedPrice>1018000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>760 Jurong West Street 74</Address>
+		<PostalCode>640760</PostalCode>
+		<Latitude>1.34947092422835</Latitude>
+		<Longitude>103.699822657058</Longitude>
+		<AgreedPrice>620000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>8</UnitNo>
+	</property>
+	<property>
+		<Address>709 Clementi West Street 2</Address>
+		<PostalCode>120709</PostalCode>
+		<Latitude>1.30533411468814</Latitude>
+		<Longitude>103.762010149112</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>8</UnitFloor>
+		<UnitNo>291</UnitNo>
+	</property>
+	<property>
+		<Address>32 Jalan Bukit Ho Swee</Address>
+		<PostalCode>160032</PostalCode>
+		<Latitude>1.28741775224863</Latitude>
+		<Longitude>103.828402160568</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>542</UnitNo>
+	</property>
+	<property>
+		<Address>951 Hougang Avenue 9</Address>
+		<PostalCode>530951</PostalCode>
+		<Latitude>1.3757301142838</Latitude>
+		<Longitude>103.878268813064</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>504</UnitNo>
+	</property>
+	<property>
+		<Address>191a Rivervale Drive</Address>
+		<PostalCode>541191</PostalCode>
+		<Latitude>1.39374557181889</Latitude>
+		<Longitude>103.90347902559</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>918</UnitNo>
+	</property>
+	<property>
+		<Address>186a Rivervale Drive</Address>
+		<PostalCode>541186</PostalCode>
+		<Latitude>1.39296591464463</Latitude>
+		<Longitude>103.905738567659</Longitude>
+		<AgreedPrice>2250</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>830</UnitNo>
+	</property>
+	<property>
+		<Address>681c Woodlands Drive 62</Address>
+		<PostalCode>733681</PostalCode>
+		<Latitude>1.43982807766498</Latitude>
+		<Longitude>103.803148496497</Longitude>
+		<AgreedPrice>2450</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>41</UnitNo>
+	</property>
+	<property>
+		<Address>641 Pasir Ris Drive 1</Address>
+		<PostalCode>510641</PostalCode>
+		<Latitude>1.37641860374503</Latitude>
+		<Longitude>103.939596014031</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>506</UnitNo>
+	</property>
+	<property>
+		<Address>32 Jalan Bukit Ho Swee</Address>
+		<PostalCode>160032</PostalCode>
+		<Latitude>1.28741775224863</Latitude>
+		<Longitude>103.828402160568</Longitude>
+		<AgreedPrice>375000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>544</UnitNo>
+	</property>
+	<property>
+		<Address>6 Holland Close</Address>
+		<PostalCode>271006</PostalCode>
+		<Latitude>1.30700441924507</Latitude>
+		<Longitude>103.795406320209</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>217 Jurong East Street 21</Address>
+		<PostalCode>600217</PostalCode>
+		<Latitude>1.33996200427293</Latitude>
+		<Longitude>103.738037024261</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>553</UnitNo>
+	</property>
+	<property>
+		<Address>Eight Courtyards</Address>
+		<PostalCode>768097</PostalCode>
+		<Latitude>1.43857097713649</Latitude>
+		<Longitude>103.83136663783</Longitude>
+		<AgreedPrice>2700</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>35</UnitNo>
+	</property>
+	<property>
+		<Address>611 Woodlands Ring Road</Address>
+		<PostalCode>730611</PostalCode>
+		<Latitude>1.4354261604759</Latitude>
+		<Longitude>103.796999871511</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>203</UnitNo>
+	</property>
+	<property>
+		<Address>121a Rivervale Drive</Address>
+		<PostalCode>541121</PostalCode>
+		<Latitude>1.38661155668279</Latitude>
+		<Longitude>103.905220893248</Longitude>
+		<AgreedPrice>520000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>446</UnitNo>
+	</property>
+	<property>
+		<Address>264a Compassvale Bow</Address>
+		<PostalCode>541264</PostalCode>
+		<Latitude>1.38123153992626</Latitude>
+		<Longitude>103.896831797196</Longitude>
+		<AgreedPrice>530000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>44</UnitNo>
+	</property>
+	<property>
+		<Address>181 Jelebu Road</Address>
+		<PostalCode>670181</PostalCode>
+		<Latitude>1.37928287711037</Latitude>
+		<Longitude>103.763004569134</Longitude>
+		<AgreedPrice>630000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>8</UnitNo>
+	</property>
+	<property>
+		<Address>121 Yishun Street 11</Address>
+		<PostalCode>760121</PostalCode>
+		<Latitude>1.43436323339106</Latitude>
+		<Longitude>103.830140337861</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>461</UnitNo>
+	</property>
+	<property>
+		<Address>18 Joo Seng Heights</Address>
+		<PostalCode>360018</PostalCode>
+		<Latitude>1.33681928741498</Latitude>
+		<Longitude>103.881142887684</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>163</UnitNo>
+	</property>
+	<property>
+		<Address>644 Pasir Ris Drive 10</Address>
+		<PostalCode>510644</PostalCode>
+		<Latitude>1.37804306462989</Latitude>
+		<Longitude>103.937574532818</Longitude>
+		<AgreedPrice>3200</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>24</UnitNo>
+	</property>
+	<property>
+		<Address>481 Jurong West Street 41</Address>
+		<PostalCode>640481</PostalCode>
+		<Latitude>1.34684708930386</Latitude>
+		<Longitude>103.725233304472</Longitude>
+		<AgreedPrice>308000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>206</UnitNo>
+	</property>
+	<property>
+		<Address>126a Edgedale Plains</Address>
+		<PostalCode>821126</PostalCode>
+		<Latitude>1.39426667361036</Latitude>
+		<Longitude>103.911513512524</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>348</UnitNo>
+	</property>
+	<property>
+		<Address>52 Circuit Road</Address>
+		<PostalCode>370052</PostalCode>
+		<Latitude>1.32421644032246</Latitude>
+		<Longitude>103.885477122466</Longitude>
+		<AgreedPrice>270000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>823</UnitNo>
+	</property>
+	<property>
+		<Address>38d Bendemeer Road</Address>
+		<PostalCode>334038</PostalCode>
+		<Latitude>1.32165246573989</Latitude>
+		<Longitude>103.866857237593</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>864</UnitNo>
+	</property>
+	<property>
+		<Address>112 Ang Mo Kio Avenue 4</Address>
+		<PostalCode>560112</PostalCode>
+		<Latitude>1.37127680710534</Latitude>
+		<Longitude>103.835768963676</Longitude>
+		<AgreedPrice>380000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>323</UnitNo>
+	</property>
+	<property>
+		<Address>531 Jelapang Road</Address>
+		<PostalCode>670531</PostalCode>
+		<Latitude>1.38555880769011</Latitude>
+		<Longitude>103.764244841113</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>5</UnitNo>
+	</property>
+	<property>
+		<Address>664c Jurong West Street 64</Address>
+		<PostalCode>643664</PostalCode>
+		<Latitude>1.33818311211422</Latitude>
+		<Longitude>103.703158252742</Longitude>
+		<AgreedPrice>528000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>220</UnitNo>
+	</property>
+	<property>
+		<Address>265 Bukit Batok East Avenue 4</Address>
+		<PostalCode>650265</PostalCode>
+		<Latitude>1.35000827029268</Latitude>
+		<Longitude>103.759862706685</Longitude>
+		<AgreedPrice>315000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>405</UnitNo>
+	</property>
+	<property>
+		<Address>368 Bukit Batok Street 31</Address>
+		<PostalCode>650368</PostalCode>
+		<Latitude>1.36037115624894</Latitude>
+		<Longitude>103.750692591176</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>485</UnitNo>
+	</property>
+	<property>
+		<Address>144 Rivervale Drive</Address>
+		<PostalCode>540144</PostalCode>
+		<Latitude>1.38917060302513</Latitude>
+		<Longitude>103.905930235237</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>545</UnitNo>
+	</property>
+	<property>
+		<Address>548 Bedok North Avenue 1</Address>
+		<PostalCode>460548</PostalCode>
+		<Latitude>1.33131311298858</Latitude>
+		<Longitude>103.926854824889</Longitude>
+		<AgreedPrice>500</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>418</UnitNo>
+	</property>
+	<property>
+		<Address>276d Jurong West Street 25</Address>
+		<PostalCode>644276</PostalCode>
+		<Latitude>1.35344586101833</Latitude>
+		<Longitude>103.70440935153</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>11</UnitNo>
+	</property>
+	<property>
+		<Address>413 Saujana Road</Address>
+		<PostalCode>670413</PostalCode>
+		<Latitude>1.38230352645467</Latitude>
+		<Longitude>103.768801156883</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>8</UnitNo>
+	</property>
+	<property>
+		<Address>106 Bukit Purmei Road</Address>
+		<PostalCode>90106</PostalCode>
+		<Latitude>1.27296876099992</Latitude>
+		<Longitude>103.825623682627</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>140</UnitNo>
+	</property>
+	<property>
+		<Address>689f Woodlands Drive 75</Address>
+		<PostalCode>736689</PostalCode>
+		<Latitude>1.44351531747097</Latitude>
+		<Longitude>103.80876201939</Longitude>
+		<AgreedPrice>405000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>140</UnitNo>
+	</property>
+	<property>
+		<Address>710 Clementi West Street 2</Address>
+		<PostalCode>120710</PostalCode>
+		<Latitude>1.30626624240347</Latitude>
+		<Longitude>103.761525723594</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>9</UnitFloor>
+		<UnitNo>273</UnitNo>
+	</property>
+	<property>
+		<Address>840 Yishun Street 81</Address>
+		<PostalCode>760840</PostalCode>
+		<Latitude>1.41561028328998</Latitude>
+		<Longitude>103.833619398728</Longitude>
+		<AgreedPrice>370000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>384</UnitNo>
+	</property>
+	<property>
+		<Address>641a Punggol Drive</Address>
+		<PostalCode>821641</PostalCode>
+		<Latitude>1.39859074124561</Latitude>
+		<Longitude>103.917001384049</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>331</UnitNo>
+	</property>
+	<property>
+		<Address>Eight Courtyards</Address>
+		<PostalCode>768098</PostalCode>
+		<Latitude>1.43857097713649</Latitude>
+		<Longitude>103.83136663783</Longitude>
+		<AgreedPrice>3400</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>Northvale</Address>
+		<PostalCode>689671</PostalCode>
+		<Latitude>1.38798090244104</Latitude>
+		<Longitude>103.7446185542</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>241 Yishun Ring Road</Address>
+		<PostalCode>760241</PostalCode>
+		<Latitude>1.43200142742407</Latitude>
+		<Longitude>103.839330055773</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>1110</UnitNo>
+	</property>
+	<property>
+		<Address>206d Compassvale Lane</Address>
+		<PostalCode>544206</PostalCode>
+		<Latitude>1.38684830809877</Latitude>
+		<Longitude>103.897134227614</Longitude>
+		<AgreedPrice>498000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>121</UnitNo>
+	</property>
+	<property>
+		<Address>422 Fajar Road</Address>
+		<PostalCode>670422</PostalCode>
+		<Latitude>1.38501378329745</Latitude>
+		<Longitude>103.769676341095</Longitude>
+		<AgreedPrice>600000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>507</UnitNo>
+	</property>
+	<property>
+		<Address>La Casa</Address>
+		<PostalCode>737900</PostalCode>
+		<Latitude>1.43188746347693</Latitude>
+		<Longitude>103.797920743349</Longitude>
+		<AgreedPrice>925000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>Orchid Park Condominium</Address>
+		<PostalCode>768452</PostalCode>
+		<Latitude>1.41284507251953</Latitude>
+		<Longitude>103.83478721057</Longitude>
+		<AgreedPrice>725000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>103c Edgefield Plains</Address>
+		<PostalCode>823103</PostalCode>
+		<Latitude>1.39737455140187</Latitude>
+		<Longitude>103.90453004043</Longitude>
+		<AgreedPrice>470000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>75</UnitNo>
+	</property>
+	<property>
+		<Address>Water Place</Address>
+		<PostalCode>436607</PostalCode>
+		<Latitude>1.29599271104872</Latitude>
+		<Longitude>103.872579099896</Longitude>
+		<AgreedPrice>5800</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>13</UnitNo>
+	</property>
+	<property>
+		<Address>205b Compassvale Lane</Address>
+		<PostalCode>542205</PostalCode>
+		<Latitude>1.38556518959484</Latitude>
+		<Longitude>103.896739745495</Longitude>
+		<AgreedPrice>2900</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>7</UnitNo>
+	</property>
+	<property>
+		<Address>The Minton</Address>
+		<PostalCode>534073</PostalCode>
+		<Latitude>1.35213365274349</Latitude>
+		<Longitude>103.881681919365</Longitude>
+		<AgreedPrice>1600000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>61</UnitNo>
+	</property>
+	<property>
+		<Address>Eight Courtyards</Address>
+		<PostalCode>768143</PostalCode>
+		<Latitude>1.43857097713649</Latitude>
+		<Longitude>103.83136663783</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>18</UnitNo>
+	</property>
+	<property>
+		<Address>Compass Heights</Address>
+		<PostalCode>545076</PostalCode>
+		<Latitude>1.39202368013325</Latitude>
+		<Longitude>103.896214015767</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>38</UnitNo>
+	</property>
+	<property>
+		<Address>182 Ang Mo Kio Avenue 5</Address>
+		<PostalCode>560182</PostalCode>
+		<Latitude>1.37734708001929</Latitude>
+		<Longitude>103.836467161178</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>2908</UnitNo>
+	</property>
+	<property>
+		<Address>288 Bishan Street 24</Address>
+		<PostalCode>570288</PostalCode>
+		<Latitude>1.3569196428092</Latitude>
+		<Longitude>103.845160639742</Longitude>
+		<AgreedPrice>848000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>3</UnitNo>
+	</property>
+	<property>
+		<Address>319 Hougang Avenue 5</Address>
+		<PostalCode>530319</PostalCode>
+		<Latitude>1.36572832268891</Latitude>
+		<Longitude>103.896820793882</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>29</UnitNo>
+	</property>
+	<property>
+		<Address>116 Pending Road</Address>
+		<PostalCode>670116</PostalCode>
+		<Latitude>1.37714048269576</Latitude>
+		<Longitude>103.768631259128</Longitude>
+		<AgreedPrice>410000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>196</UnitNo>
+	</property>
+	<property>
+		<Address>123 Yishun Street 11</Address>
+		<PostalCode>760123</PostalCode>
+		<Latitude>1.4343894707066</Latitude>
+		<Longitude>103.831796439383</Longitude>
+		<AgreedPrice>399000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>493</UnitNo>
+	</property>
+	<property>
+		<Address>328 Woodlands Street 32</Address>
+		<PostalCode>730328</PostalCode>
+		<Latitude>1.43006404924643</Latitude>
+		<Longitude>103.779436820807</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>67</UnitNo>
+	</property>
+	<property>
+		<Address>150 Ang Mo Kio Avenue 5</Address>
+		<PostalCode>560150</PostalCode>
+		<Latitude>1.37680728735817</Latitude>
+		<Longitude>103.842013125844</Longitude>
+		<AgreedPrice>327000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>3068</UnitNo>
+	</property>
+	<property>
+		<Address>855 Woodlands Street 83</Address>
+		<PostalCode>730855</PostalCode>
+		<Latitude>1.4401445942538</Latitude>
+		<Longitude>103.793145831082</Longitude>
+		<AgreedPrice>2200</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>62</UnitNo>
+	</property>
+	<property>
+		<Address>250 Pasir Ris Street 21</Address>
+		<PostalCode>510250</PostalCode>
+		<Latitude>1.37016908855903</Latitude>
+		<Longitude>103.962928571521</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>135</UnitNo>
+	</property>
+	<property>
+		<Address>305c Anchorvale Link</Address>
+		<PostalCode>543305</PostalCode>
+		<Latitude>1.38905447094715</Latitude>
+		<Longitude>103.888010341637</Longitude>
+		<AgreedPrice>475000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>43</UnitNo>
+	</property>
+	<property>
+		<Address>183 Yung Sheng Road</Address>
+		<PostalCode>610183</PostalCode>
+		<Latitude>1.33324050101055</Latitude>
+		<Longitude>103.722683756195</Longitude>
+		<AgreedPrice>490000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>61</UnitNo>
+	</property>
+	<property>
+		<Address>858 Jurong West Street 81</Address>
+		<PostalCode>640858</PostalCode>
+		<Latitude>1.34828805954044</Latitude>
+		<Longitude>103.696218180013</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>10</UnitFloor>
+		<UnitNo>568</UnitNo>
+	</property>
+	<property>
+		<Address>1 Bedok South Avenue 1</Address>
+		<PostalCode>460001</PostalCode>
+		<Latitude>1.32086635166386</Latitude>
+		<Longitude>103.933725743338</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>915</UnitNo>
+	</property>
+	<property>
+		<Address>291 Tampines Street 22</Address>
+		<PostalCode>520291</PostalCode>
+		<Latitude>1.3500176015335</Latitude>
+		<Longitude>103.955180401374</Longitude>
+		<AgreedPrice>395000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>434</UnitNo>
+	</property>
+	<property>
+		<Address>529 Bedok North Street 3</Address>
+		<PostalCode>460529</PostalCode>
+		<Latitude>1.33425744223349</Latitude>
+		<Longitude>103.926551996755</Longitude>
+		<AgreedPrice>345000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>616</UnitNo>
+	</property>
+	<property>
+		<Address>424 Ang Mo Kio Avenue 3</Address>
+		<PostalCode>560424</PostalCode>
+		<Latitude>1.36826818593359</Latitude>
+		<Longitude>103.850897451924</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 2 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>2404</UnitNo>
+	</property>
+	<property>
+		<Address>Livia</Address>
+		<PostalCode>518210</PostalCode>
+		<Latitude>1.37280149825842</Latitude>
+		<Longitude>103.94430920342</Longitude>
+		<AgreedPrice>920000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>46</UnitNo>
+	</property>
+	<property>
+		<Address>484c Choa Chu Kang Avenue 5</Address>
+		<PostalCode>683484</PostalCode>
+		<Latitude>1.37549451075399</Latitude>
+		<Longitude>103.736871345198</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>62</UnitNo>
+	</property>
+	<property>
+		<Address>465 Choa Chu Kang Avenue 4</Address>
+		<PostalCode>680465</PostalCode>
+		<Latitude>1.37746834725609</Latitude>
+		<Longitude>103.736454292564</Longitude>
+		<AgreedPrice>388000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>11</UnitNo>
+	</property>
+	<property>
+		<Address>84 Telok Blangah Heights</Address>
+		<PostalCode>100084</PostalCode>
+		<Latitude>1.27685277840984</Latitude>
+		<Longitude>103.809948190439</Longitude>
+		<AgreedPrice>3300</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>329</UnitNo>
+	</property>
+	<property>
+		<Address>319 Woodlands Street 31</Address>
+		<PostalCode>730319</PostalCode>
+		<Latitude>1.43151375796238</Latitude>
+		<Longitude>103.777397653802</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>144</UnitNo>
+	</property>
+	<property>
+		<Address>316 Bukit Batok Street 32</Address>
+		<PostalCode>650316</PostalCode>
+		<Latitude>1.3605864840209</Latitude>
+		<Longitude>103.747065450511</Longitude>
+		<AgreedPrice>310000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>135</UnitNo>
+	</property>
+	<property>
+		<Address>105 Woodlands Street 13</Address>
+		<PostalCode>730105</PostalCode>
+		<Latitude>1.43684898591077</Latitude>
+		<Longitude>103.78157706286</Longitude>
+		<AgreedPrice>2200</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>176</UnitNo>
+	</property>
+	<property>
+		<Address>142 Jalan Bukit Merah</Address>
+		<PostalCode>160142</PostalCode>
+		<Latitude>1.27700739888731</Latitude>
+		<Longitude>103.828057025487</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>1214</UnitNo>
+	</property>
+	<property>
+		<Address>103 Henderson Crescent</Address>
+		<PostalCode>150103</PostalCode>
+		<Latitude>1.28972766732662</Latitude>
+		<Longitude>103.821527838293</Longitude>
+		<AgreedPrice>495000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>50</UnitNo>
+	</property>
+	<property>
+		<Address>325a Sengkang East Way</Address>
+		<PostalCode>541325</PostalCode>
+		<Latitude>1.39373218622546</Latitude>
+		<Longitude>103.890922015736</Longitude>
+		<AgreedPrice>510000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>501</UnitNo>
+	</property>
+	<property>
+		<Address>852 Jurong West Street 81</Address>
+		<PostalCode>640852</PostalCode>
+		<Latitude>1.34744620270929</Latitude>
+		<Longitude>103.692827944359</Longitude>
+		<AgreedPrice>400000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>301</UnitNo>
+	</property>
+	<property>
+		<Address>116 Pending Road</Address>
+		<PostalCode>670116</PostalCode>
+		<Latitude>1.37714048269576</Latitude>
+		<Longitude>103.768631259128</Longitude>
+		<AgreedPrice>300000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>202</UnitNo>
+	</property>
+	<property>
+		<Address>642d Punggol Drive</Address>
+		<PostalCode>824642</PostalCode>
+		<Latitude>1.39879991682625</Latitude>
+		<Longitude>103.915833299944</Longitude>
+		<AgreedPrice>520000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>381</UnitNo>
+	</property>
+	<property>
+		<Address>490 Jurong West Avenue 1</Address>
+		<PostalCode>640490</PostalCode>
+		<Latitude>1.34958479296707</Latitude>
+		<Longitude>103.727238556883</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>17</UnitNo>
+	</property>
+	<property>
+		<Address>182 Yung Sheng Road</Address>
+		<PostalCode>610182</PostalCode>
+		<Latitude>1.33369216782305</Latitude>
+		<Longitude>103.722503180307</Longitude>
+		<AgreedPrice>510000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>51</UnitNo>
+	</property>
+	<property>
+		<Address>683b Jurong West Central 1</Address>
+		<PostalCode>642683</PostalCode>
+		<Latitude>1.34301231261814</Latitude>
+		<Longitude>103.704851532739</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>108</UnitNo>
+	</property>
+	<property>
+		<Address>92 Bedok North Avenue 4</Address>
+		<PostalCode>460092</PostalCode>
+		<Latitude>1.33244910530151</Latitude>
+		<Longitude>103.941298529297</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>1499</UnitNo>
+	</property>
+	<property>
+		<Address>717 Tampines Street 72</Address>
+		<PostalCode>520717</PostalCode>
+		<Latitude>1.35881518136988</Latitude>
+		<Longitude>103.935147322557</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>65</UnitNo>
+	</property>
+	<property>
+		<Address>526 Woodlands Drive 14</Address>
+		<PostalCode>730526</PostalCode>
+		<Latitude>1.43260116519812</Latitude>
+		<Longitude>103.792801792354</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>471</UnitNo>
+	</property>
+	<property>
+		<Address>204a Punggol Field</Address>
+		<PostalCode>821204</PostalCode>
+		<Latitude>1.39877594754527</Latitude>
+		<Longitude>103.902908863569</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>284</UnitNo>
+	</property>
+	<property>
+		<Address>664a Jurong West Street 64</Address>
+		<PostalCode>641664</PostalCode>
+		<Latitude>1.33923281174022</Latitude>
+		<Longitude>103.703397645687</Longitude>
+		<AgreedPrice>2850</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>254</UnitNo>
+	</property>
+	<property>
+		<Address>542 Woodlands Drive 16</Address>
+		<PostalCode>730542</PostalCode>
+		<Latitude>1.42769337275183</Latitude>
+		<Longitude>103.793768422142</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>11</UnitFloor>
+		<UnitNo>35</UnitNo>
+	</property>
+	<property>
+		<Address>The Floravale</Address>
+		<PostalCode>648357</PostalCode>
+		<Latitude>1.35136680170981</Latitude>
+		<Longitude>103.696148638661</Longitude>
+		<AgreedPrice>950000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>20</UnitNo>
+	</property>
+	<property>
+		<Address>381 Tampines Street 32</Address>
+		<PostalCode>520381</PostalCode>
+		<Latitude>1.35426530118293</Latitude>
+		<Longitude>103.959050811662</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>107</UnitNo>
+	</property>
+	<property>
+		<Address>75 Whampoa Court</Address>
+		<PostalCode>320075</PostalCode>
+		<Latitude>1.32441567421383</Latitude>
+		<Longitude>103.858184762335</Longitude>
+		<AgreedPrice>320000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>364</UnitNo>
+	</property>
+	<property>
+		<Address>626 Hougang Avenue 8</Address>
+		<PostalCode>530626</PostalCode>
+		<Latitude>1.36986579263111</Latitude>
+		<Longitude>103.88197754258</Longitude>
+		<AgreedPrice>465000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>160</UnitNo>
+	</property>
+	<property>
+		<Address>The Bayshore</Address>
+		<PostalCode>469972</PostalCode>
+		<Latitude>1.31245345592411</Latitude>
+		<Longitude>103.938155598812</Longitude>
+		<AgreedPrice>1250000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>7</UnitNo>
+	</property>
+	<property>
+		<Address>744 Woodlands Circle</Address>
+		<PostalCode>730744</PostalCode>
+		<Latitude>1.44285059723302</Latitude>
+		<Longitude>103.7959369461</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>758</UnitNo>
+	</property>
+	<property>
+		<Address>649b Jurong West Street 61</Address>
+		<PostalCode>642649</PostalCode>
+		<Latitude>1.33795707027842</Latitude>
+		<Longitude>103.698121151767</Longitude>
+		<AgreedPrice>440000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>304</UnitNo>
+	</property>
+	<property>
+		<Address>48 Telok Blangah Drive</Address>
+		<PostalCode>100048</PostalCode>
+		<Latitude>1.2723466853312</Latitude>
+		<Longitude>103.810554546511</Longitude>
+		<AgreedPrice>820000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>111</UnitNo>
+	</property>
+	<property>
+		<Address>432 Clementi Avenue 3</Address>
+		<PostalCode>120432</PostalCode>
+		<Latitude>1.31402337374538</Latitude>
+		<Longitude>103.762743101737</Longitude>
+		<AgreedPrice>438000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>288</UnitNo>
+	</property>
+	<property>
+		<Address>4 Holland Close</Address>
+		<PostalCode>271004</PostalCode>
+		<Latitude>1.30787568081356</Latitude>
+		<Longitude>103.795789986963</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>11</UnitNo>
+	</property>
+	<property>
+		<Address>Parvis</Address>
+		<PostalCode>278746</PostalCode>
+		<Latitude>1.30990474420601</Latitude>
+		<Longitude>103.799874847464</Longitude>
+		<AgreedPrice>5020000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>18</UnitNo>
+	</property>
+	<property>
+		<Address>406 Sun Plaza Green</Address>
+		<PostalCode>520406</PostalCode>
+		<Latitude>1.3578324382471</Latitude>
+		<Longitude>103.945773509127</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>5</UnitNo>
+	</property>
+	<property>
+		<Address>417 Tampines Street 41</Address>
+		<PostalCode>520417</PostalCode>
+		<Latitude>1.35878164930977</Latitude>
+		<Longitude>103.947284659935</Longitude>
+		<AgreedPrice>390000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>349</UnitNo>
+	</property>
+	<property>
+		<Address>372 Hougang Street 31</Address>
+		<PostalCode>530372</PostalCode>
+		<Latitude>1.36305900355738</Latitude>
+		<Longitude>103.890314458334</Longitude>
+		<AgreedPrice>470000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>47</UnitNo>
+	</property>
+	<property>
+		<Address>712 Bedok Reservoir Road</Address>
+		<PostalCode>470712</PostalCode>
+		<Latitude>1.335892677845</Latitude>
+		<Longitude>103.922626964862</Longitude>
+		<AgreedPrice>440000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>3902</UnitNo>
+	</property>
+	<property>
+		<Address>126d Edgedale Plains</Address>
+		<PostalCode>824126</PostalCode>
+		<Latitude>1.39372221554218</Latitude>
+		<Longitude>103.911098360283</Longitude>
+		<AgreedPrice>490000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>316</UnitNo>
+	</property>
+	<property>
+		<Address>264 Jurong East Street 24</Address>
+		<PostalCode>600264</PostalCode>
+		<Latitude>1.34372009844817</Latitude>
+		<Longitude>103.74141630728</Longitude>
+		<AgreedPrice>318000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>519</UnitNo>
+	</property>
+	<property>
+		<Address>36 Bedok South Avenue 2</Address>
+		<PostalCode>460036</PostalCode>
+		<Latitude>1.32164431504388</Latitude>
+		<Longitude>103.938433518323</Longitude>
+		<AgreedPrice>435000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>415</UnitNo>
+	</property>
+	<property>
+		<Address>601 Ang Mo Kio Avenue 5</Address>
+		<PostalCode>560601</PostalCode>
+		<Latitude>1.38103751141775</Latitude>
+		<Longitude>103.835135739103</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>2601</UnitNo>
+	</property>
+	<property>
+		<Address>578 Pasir Ris Street 53</Address>
+		<PostalCode>510578</PostalCode>
+		<Latitude>1.37398215457257</Latitude>
+		<Longitude>103.947510297286</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>73</UnitNo>
+	</property>
+	<property>
+		<Address>91 Bedok North Street 4</Address>
+		<PostalCode>460091</PostalCode>
+		<Latitude>1.33254448300832</Latitude>
+		<Longitude>103.940372449346</Longitude>
+		<AgreedPrice>570000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>1531</UnitNo>
+	</property>
+	<property>
+		<Address>Lilydale</Address>
+		<PostalCode>768965</PostalCode>
+		<Latitude>1.42486809456472</Latitude>
+		<Longitude>103.848977070428</Longitude>
+		<AgreedPrice>920000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>20</UnitNo>
+	</property>
+	<property>
+		<Address>31 Marine Crescent Ville</Address>
+		<PostalCode>440031</PostalCode>
+		<Latitude>1.30372339328161</Latitude>
+		<Longitude>103.91144582856</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>151</UnitNo>
+	</property>
+	<property>
+		<Address>439a Sengkang West Avenue</Address>
+		<PostalCode>791439</PostalCode>
+		<Latitude>1.39179957655405</Latitude>
+		<Longitude>103.877742943931</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>325</UnitNo>
+	</property>
+	<property>
+		<Address>309 Clementi Avenue 4</Address>
+		<PostalCode>120309</PostalCode>
+		<Latitude>1.32090635414658</Latitude>
+		<Longitude>103.76637838575</Longitude>
+		<AgreedPrice>395000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>315</UnitNo>
+	</property>
+	<property>
+		<Address>486 Choa Chu Kang Avenue 5</Address>
+		<PostalCode>680486</PostalCode>
+		<Latitude>1.37544929804076</Latitude>
+		<Longitude>103.738350404193</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>12</UnitFloor>
+		<UnitNo>150</UnitNo>
+	</property>
+	<property>
+		<Address>763 Choa Chu Kang North 5</Address>
+		<PostalCode>680763</PostalCode>
+		<Latitude>1.39284055305354</Latitude>
+		<Longitude>103.748567522327</Longitude>
+		<AgreedPrice>420000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>273</UnitNo>
+	</property>
+	<property>
+		<Address>19 Dover Ville</Address>
+		<PostalCode>130019</PostalCode>
+		<Latitude>1.30784663708924</Latitude>
+		<Longitude>103.783634939566</Longitude>
+		<AgreedPrice>0</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>20</UnitNo>
+	</property>
+	<property>
+		<Address>Apleton View</Address>
+		<PostalCode>308323</PostalCode>
+		<Latitude>1.31907867587458</Latitude>
+		<Longitude>103.846098115277</Longitude>
+		<AgreedPrice>4500</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>2</UnitNo>
+	</property>
+	<property>
+		<Address>314d Anchorvale Link</Address>
+		<PostalCode>544314</PostalCode>
+		<Latitude>1.39158809495094</Latitude>
+		<Longitude>103.889379770065</Longitude>
+		<AgreedPrice>600000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>149</UnitNo>
+	</property>
+	<property>
+		<Address>188b Rivervale Drive</Address>
+		<PostalCode>542188</PostalCode>
+		<Latitude>1.39492789937342</Latitude>
+		<Longitude>103.90529793745</Longitude>
+		<AgreedPrice>458000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>1072</UnitNo>
+	</property>
+	<property>
+		<Address>484 Admiralty Link</Address>
+		<PostalCode>750484</PostalCode>
+		<Latitude>1.45709818812978</Latitude>
+		<Longitude>103.815309244287</Longitude>
+		<AgreedPrice>2300</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>59</UnitNo>
+	</property>
+	<property>
+		<Address>168 Petir Road</Address>
+		<PostalCode>670168</PostalCode>
+		<Latitude>1.3775751723876</Latitude>
+		<Longitude>103.764402941955</Longitude>
+		<AgreedPrice>540000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>130</UnitNo>
+	</property>
+	<property>
+		<Address>268d Compassvale Link</Address>
+		<PostalCode>544268</PostalCode>
+		<Latitude>1.384914960319</Latitude>
+		<Longitude>103.895757010136</Longitude>
+		<AgreedPrice>2500</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>3d Upper Boon Keng Road</Address>
+		<PostalCode>384003</PostalCode>
+		<Latitude>1.31328836248429</Latitude>
+		<Longitude>103.87284205885</Longitude>
+		<AgreedPrice>620000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>642</UnitNo>
+	</property>
+	<property>
+		<Address>115 Edgefield Plains</Address>
+		<PostalCode>820115</PostalCode>
+		<Latitude>1.39518280199962</Latitude>
+		<Longitude>103.907365180469</Longitude>
+		<AgreedPrice>625000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>350</UnitNo>
+	</property>
+	<property>
+		<Address>Regent Grove</Address>
+		<PostalCode>689527</PostalCode>
+		<Latitude>1.39891738540492</Latitude>
+		<Longitude>103.749086603279</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>5</UnitNo>
+	</property>
+	<property>
+		<Address>126 Hougang Avenue 1</Address>
+		<PostalCode>530126</PostalCode>
+		<Latitude>1.35222410502393</Latitude>
+		<Longitude>103.885688507934</Longitude>
+		<AgreedPrice>340000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>1522</UnitNo>
+	</property>
+	<property>
+		<Address>832 Tampines Street 82</Address>
+		<PostalCode>520832</PostalCode>
+		<Latitude>1.35010380025771</Latitude>
+		<Longitude>103.935402762419</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>19</UnitNo>
+	</property>
+	<property>
+		<Address>718 Tampines Street 72</Address>
+		<PostalCode>520718</PostalCode>
+		<Latitude>1.35906168930738</Latitude>
+		<Longitude>103.935544403332</Longitude>
+		<AgreedPrice>590000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>59</UnitNo>
+	</property>
+	<property>
+		<Address>439b Sengkang West Avenue</Address>
+		<PostalCode>792439</PostalCode>
+		<Latitude>1.39198415473523</Latitude>
+		<Longitude>103.87834692686</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>315</UnitNo>
+	</property>
+	<property>
+		<Address>Eight Courtyards</Address>
+		<PostalCode>768100</PostalCode>
+		<Latitude>1.43857097713649</Latitude>
+		<Longitude>103.83136663783</Longitude>
+		<AgreedPrice>3500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>45</UnitNo>
+	</property>
+	<property>
+		<Address>638a Punggol Drive</Address>
+		<PostalCode>821638</PostalCode>
+		<Latitude>1.40012395636751</Latitude>
+		<Longitude>103.914871738901</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>433</UnitNo>
+	</property>
+	<property>
+		<Address>866 Tampines Street 83</Address>
+		<PostalCode>520866</PostalCode>
+		<Latitude>1.35425002680553</Latitude>
+		<Longitude>103.934460830754</Longitude>
+		<AgreedPrice>439000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>223</UnitNo>
+	</property>
+	<property>
+		<Address>Maysprings</Address>
+		<PostalCode>678267</PostalCode>
+		<Latitude>1.37608316765115</Latitude>
+		<Longitude>103.763654420388</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>842c Tampines Street 82</Address>
+		<PostalCode>523842</PostalCode>
+		<Latitude>1.35088707872802</Latitude>
+		<Longitude>103.936853552936</Longitude>
+		<AgreedPrice>2800</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>46</UnitNo>
+	</property>
+	<property>
+		<Address>173 Gangsa Road</Address>
+		<PostalCode>670173</PostalCode>
+		<Latitude>1.37996038168396</Latitude>
+		<Longitude>103.766774756996</Longitude>
+		<AgreedPrice>2400</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>13</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>7 St. Georges Lane</Address>
+		<PostalCode>320007</PostalCode>
+		<Latitude>1.32370041148326</Latitude>
+		<Longitude>103.859057246951</Longitude>
+		<AgreedPrice>363000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>233</UnitNo>
+	</property>
+	<property>
+		<Address>158 Bishan Street 13</Address>
+		<PostalCode>570158</PostalCode>
+		<Latitude>1.34654234387609</Latitude>
+		<Longitude>103.856209870518</Longitude>
+		<AgreedPrice>715000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>128</UnitNo>
+	</property>
+	<property>
+		<Address>35 Lorong 5 Toa Payoh</Address>
+		<PostalCode>310035</PostalCode>
+		<Latitude>1.33441438806939</Latitude>
+		<Longitude>103.854615447796</Longitude>
+		<AgreedPrice>618000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>331</UnitNo>
+	</property>
+	<property>
+		<Address>116a Rivervale Drive</Address>
+		<PostalCode>541116</PostalCode>
+		<Latitude>1.38264597110902</Latitude>
+		<Longitude>103.902396509285</Longitude>
+		<AgreedPrice>430000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>8</UnitNo>
+	</property>
+	<property>
+		<Address>The Quintet</Address>
+		<PostalCode>689102</PostalCode>
+		<Latitude>1.39859546302791</Latitude>
+		<Longitude>103.750963991488</Longitude>
+		<AgreedPrice>995000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>468d Admiralty Drive</Address>
+		<PostalCode>754468</PostalCode>
+		<Latitude>1.45086083010348</Latitude>
+		<Longitude>103.81438513614</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>213</UnitNo>
+	</property>
+	<property>
+		<Address>774 Woodlands Crescent</Address>
+		<PostalCode>730774</PostalCode>
+		<Latitude>1.44814613067171</Latitude>
+		<Longitude>103.799148546422</Longitude>
+		<AgreedPrice>360000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>22</UnitNo>
+	</property>
+	<property>
+		<Address>The Interweave</Address>
+		<PostalCode>328805</PostalCode>
+		<Latitude>1.32535133745883</Latitude>
+		<Longitude>103.85326302842</Longitude>
+		<AgreedPrice>1200000</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>9</UnitNo>
+	</property>
+	<property>
+		<Address>403 Pandan Gardens</Address>
+		<PostalCode>600403</PostalCode>
+		<Latitude>1.32031317839744</Latitude>
+		<Longitude>103.749388015474</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>14</UnitFloor>
+		<UnitNo>21</UnitNo>
+	</property>
+	<property>
+		<Address>469 Choa Chu Kang Avenue 3</Address>
+		<PostalCode>680469</PostalCode>
+		<Latitude>1.37779181214633</Latitude>
+		<Longitude>103.737377014159</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>107</UnitNo>
+	</property>
+	<property>
+		<Address>53 New Upper Changi Road</Address>
+		<PostalCode>461053</PostalCode>
+		<Latitude>1.32432064000676</Latitude>
+		<Longitude>103.94243125335</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>1468</UnitNo>
+	</property>
+	<property>
+		<Address>309c Anchorvale Road</Address>
+		<PostalCode>543309</PostalCode>
+		<Latitude>1.39109910065224</Latitude>
+		<Longitude>103.885676584037</Longitude>
+		<AgreedPrice>520000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>57</UnitNo>
+	</property>
+	<property>
+		<Address>Costa Del Sol</Address>
+		<PostalCode>469988</PostalCode>
+		<Latitude>1.31133215485798</Latitude>
+		<Longitude>103.938608454241</Longitude>
+		<AgreedPrice>2200000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>15</UnitNo>
+	</property>
+	<property>
+		<Address>10f Bedok South Avenue 2</Address>
+		<PostalCode>465010</PostalCode>
+		<Latitude>1.32221773281159</Latitude>
+		<Longitude>103.937001332315</Longitude>
+		<AgreedPrice>2750</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>538</UnitNo>
+	</property>
+	<property>
+		<Address>10f Bedok South Avenue 2</Address>
+		<PostalCode>465010</PostalCode>
+		<Latitude>1.32221773281159</Latitude>
+		<Longitude>103.937001332315</Longitude>
+		<AgreedPrice>2750</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>538</UnitNo>
+	</property>
+	<property>
+		<Address>747 Pasir Ris Street 71</Address>
+		<PostalCode>510747</PostalCode>
+		<Latitude>1.37922485415918</Latitude>
+		<Longitude>103.934555830166</Longitude>
+		<AgreedPrice>440000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>44</UnitNo>
+	</property>
+	<property>
+		<Address>263 Boon Lay Drive</Address>
+		<PostalCode>640263</PostalCode>
+		<Latitude>1.34510881431298</Latitude>
+		<Longitude>103.706920606869</Longitude>
+		<AgreedPrice>450000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>593</UnitNo>
+	</property>
+	<property>
+		<Address>439a Sengkang West Avenue</Address>
+		<PostalCode>791439</PostalCode>
+		<Latitude>1.39179957655405</Latitude>
+		<Longitude>103.877742943931</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>327</UnitNo>
+	</property>
+	<property>
+		<Address>Whitewater</Address>
+		<PostalCode>518767</PostalCode>
+		<Latitude>1.38020174150335</Latitude>
+		<Longitude>103.935101484873</Longitude>
+		<AgreedPrice>950000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>14</UnitNo>
+	</property>
+	<property>
+		<Address>306b Anchorvale Link</Address>
+		<PostalCode>542306</PostalCode>
+		<Latitude>1.3895298264728</Latitude>
+		<Longitude>103.888617638087</Longitude>
+		<AgreedPrice>610000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>63</UnitNo>
+	</property>
+	<property>
+		<Address>Heritage View</Address>
+		<PostalCode>138679</PostalCode>
+		<Latitude>1.30441893880948</Latitude>
+		<Longitude>103.783464175291</Longitude>
+		<AgreedPrice>4500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>15</UnitFloor>
+		<UnitNo>11</UnitNo>
+	</property>
+	<property>
+		<Address>54 Marine Terrace</Address>
+		<PostalCode>440054</PostalCode>
+		<Latitude>1.30530416165162</Latitude>
+		<Longitude>103.915012583825</Longitude>
+		<AgreedPrice>2600</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>25</UnitNo>
+	</property>
+	<property>
+		<Address>268a Compassvale Link</Address>
+		<PostalCode>541268</PostalCode>
+		<Latitude>1.38424580941457</Latitude>
+		<Longitude>103.896555799044</Longitude>
+		<AgreedPrice>635000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>37</UnitNo>
+	</property>
+	<property>
+		<Address>297a Compassvale Street</Address>
+		<PostalCode>541297</PostalCode>
+		<Latitude>1.39486526772442</Latitude>
+		<Longitude>103.900587179509</Longitude>
+		<AgreedPrice>630000</AgreedPrice>
+		<PropertyType>HDB Executive</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>42</UnitNo>
+	</property>
+	<property>
+		<Address>511 Jelapang Road</Address>
+		<PostalCode>670511</PostalCode>
+		<Latitude>1.38781435551384</Latitude>
+		<Longitude>103.768438540014</Longitude>
+		<AgreedPrice>458000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>44</UnitNo>
+	</property>
+	<property>
+		<Address>122 Sengkang East Way</Address>
+		<PostalCode>540122</PostalCode>
+		<Latitude>1.38654471383524</Latitude>
+		<Longitude>103.906728980152</Longitude>
+		<AgreedPrice>500000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>11</UnitNo>
+	</property>
+	<property>
+		<Address>Ocean Park</Address>
+		<PostalCode>458968</PostalCode>
+		<Latitude>1.30909044987926</Latitude>
+		<Longitude>103.918604487179</Longitude>
+		<AgreedPrice>2850000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>Rivervale Crest</Address>
+		<PostalCode>545084</PostalCode>
+		<Latitude>1.39084809648064</Latitude>
+		<Longitude>103.904194468282</Longitude>
+		<AgreedPrice>3800</AgreedPrice>
+		<PropertyType>Apartment</PropertyType>
+		<UnitFloor>16</UnitFloor>
+		<UnitNo>7</UnitNo>
+	</property>
+	<property>
+		<Address>155 Bishan Street 13</Address>
+		<PostalCode>570155</PostalCode>
+		<Latitude>1.34623399464555</Latitude>
+		<Longitude>103.855905749478</Longitude>
+		<AgreedPrice>3000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>17</UnitFloor>
+		<UnitNo>82</UnitNo>
+	</property>
+	<property>
+		<Address>Kovan Melody</Address>
+		<PostalCode>548191</PostalCode>
+		<Latitude>1.35997360452876</Latitude>
+		<Longitude>103.883368728904</Longitude>
+		<AgreedPrice>1380000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>17</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>265c Compassvale Link</Address>
+		<PostalCode>543265</PostalCode>
+		<Latitude>1.3821584795293</Latitude>
+		<Longitude>103.896041300955</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>17</UnitFloor>
+		<UnitNo>219</UnitNo>
+	</property>
+	<property>
+		<Address>642c Punggol Drive</Address>
+		<PostalCode>823642</PostalCode>
+		<Latitude>1.39850822281123</Latitude>
+		<Longitude>103.916109261714</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>17</UnitFloor>
+		<UnitNo>361</UnitNo>
+	</property>
+	<property>
+		<Address>649 Punggol Central</Address>
+		<PostalCode>820649</PostalCode>
+		<Latitude>1.39718559753184</Latitude>
+		<Longitude>103.91491704272</Longitude>
+		<AgreedPrice>550000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>17</UnitFloor>
+		<UnitNo>388</UnitNo>
+	</property>
+	<property>
+		<Address>38 Jalan Rumah Tinggi</Address>
+		<PostalCode>150038</PostalCode>
+		<Latitude>1.28873894208732</Latitude>
+		<Longitude>103.80971983695</Longitude>
+		<AgreedPrice>600000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>18</UnitFloor>
+		<UnitNo>250</UnitNo>
+	</property>
+	<property>
+		<Address>410b Fernvale Road</Address>
+		<PostalCode>792410</PostalCode>
+		<Latitude>1.38977828168322</Latitude>
+		<Longitude>103.876089981664</Longitude>
+		<AgreedPrice>2600</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>19</UnitFloor>
+		<UnitNo>104</UnitNo>
+	</property>
+	<property>
+		<Address>9 Holland Avenue</Address>
+		<PostalCode>272009</PostalCode>
+		<Latitude>1.30726165577502</Latitude>
+		<Longitude>103.794639340562</Longitude>
+		<AgreedPrice>460000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>19</UnitFloor>
+		<UnitNo>60</UnitNo>
+	</property>
+	<property>
+		<Address>Waterbank At Dakota</Address>
+		<PostalCode>399941</PostalCode>
+		<Latitude>1.30652907228027</Latitude>
+		<Longitude>103.88804493725</Longitude>
+		<AgreedPrice>1550</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>19</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>385 Bukit Batok West Avenue 5</Address>
+		<PostalCode>650385</PostalCode>
+		<Latitude>1.36347943163713</Latitude>
+		<Longitude>103.752174465029</Longitude>
+		<AgreedPrice>490000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>20</UnitFloor>
+		<UnitNo>334</UnitNo>
+	</property>
+	<property>
+		<Address>D'leedon</Address>
+		<PostalCode>266224</PostalCode>
+		<Latitude>1.31587501839381</Latitude>
+		<Longitude>103.803666417678</Longitude>
+		<AgreedPrice>4500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>21</UnitFloor>
+		<UnitNo>49</UnitNo>
+	</property>
+	<property>
+		<Address>172 Bukit Batok West Avenue 8</Address>
+		<PostalCode>650172</PostalCode>
+		<Latitude>1.34571238010107</Latitude>
+		<Longitude>103.740609990555</Longitude>
+		<AgreedPrice>620000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>21</UnitFloor>
+		<UnitNo>343</UnitNo>
+	</property>
+	<property>
+		<Address>663 Buffalo Road</Address>
+		<PostalCode>210663</PostalCode>
+		<Latitude>1.30568117506362</Latitude>
+		<Longitude>103.850857689422</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>21</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>438b Sengkang West Avenue</Address>
+		<PostalCode>792438</PostalCode>
+		<Latitude>1.39275933346674</Latitude>
+		<Longitude>103.877701537412</Longitude>
+		<AgreedPrice>350000</AgreedPrice>
+		<PropertyType>HDB 3 Rooms</PropertyType>
+		<UnitFloor>22</UnitFloor>
+		<UnitNo>345</UnitNo>
+	</property>
+	<property>
+		<Address>City Square Residences</Address>
+		<PostalCode>207223</PostalCode>
+		<Latitude>1.3105079674091</Latitude>
+		<Longitude>103.857089191279</Longitude>
+		<AgreedPrice>4500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>23</UnitFloor>
+		<UnitNo>30</UnitNo>
+	</property>
+	<property>
+		<Address>630 Senja Road</Address>
+		<PostalCode>670630</PostalCode>
+		<Latitude>1.38671837317417</Latitude>
+		<Longitude>103.759759466598</Longitude>
+		<AgreedPrice>470000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>23</UnitFloor>
+		<UnitNo>206</UnitNo>
+	</property>
+	<property>
+		<Address>Maysprings</Address>
+		<PostalCode>678267</PostalCode>
+		<Latitude>1.37608316765115</Latitude>
+		<Longitude>103.763654420388</Longitude>
+		<AgreedPrice>2500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>23</UnitFloor>
+		<UnitNo>10</UnitNo>
+	</property>
+	<property>
+		<Address>Bayshore Park</Address>
+		<PostalCode>469985</PostalCode>
+		<Latitude>1.31076921202982</Latitude>
+		<Longitude>103.93801426811</Longitude>
+		<AgreedPrice>1250000</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>24</UnitFloor>
+		<UnitNo>1</UnitNo>
+	</property>
+	<property>
+		<Address>385 Bukit Batok West Avenue 5</Address>
+		<PostalCode>650385</PostalCode>
+		<Latitude>1.36347943163713</Latitude>
+		<Longitude>103.752174465029</Longitude>
+		<AgreedPrice>490000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>25</UnitFloor>
+		<UnitNo>340</UnitNo>
+	</property>
+	<property>
+		<Address>75a Redhill Road</Address>
+		<PostalCode>151075</PostalCode>
+		<Latitude>1.28798196200702</Latitude>
+		<Longitude>103.815262528321</Longitude>
+		<AgreedPrice>770000</AgreedPrice>
+		<PropertyType>HDB 4 Rooms</PropertyType>
+		<UnitFloor>26</UnitFloor>
+		<UnitNo>52</UnitNo>
+	</property>
+	<property>
+		<Address>Pavilion 11</Address>
+		<PostalCode>309979</PostalCode>
+		<Latitude>1.32434712036206</Latitude>
+		<Longitude>103.848401710319</Longitude>
+		<AgreedPrice>4500</AgreedPrice>
+		<PropertyType>Condominium</PropertyType>
+		<UnitFloor>30</UnitFloor>
+		<UnitNo>6</UnitNo>
+	</property>
+	<property>
+		<Address>Teachers Housing Estate</Address>
+		<PostalCode>787209</PostalCode>
+		<Latitude>1.37970965765939</Latitude>
+		<Longitude>103.829200674438</Longitude>
+		<AgreedPrice>4000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>55c West Coast Road</Address>
+		<PostalCode>127440</PostalCode>
+		<Latitude>1.29603300268801</Latitude>
+		<Longitude>103.766679913355</Longitude>
+		<AgreedPrice>2600000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>551 Sembawang Place</Address>
+		<PostalCode>757777</PostalCode>
+		<Latitude>1.4387384416935</Latitude>
+		<Longitude>103.824971316172</Longitude>
+		<AgreedPrice>4300000</AgreedPrice>
+		<PropertyType>Semi-Detached</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Pasir Panjang Gardens</Address>
+		<PostalCode>128752</PostalCode>
+		<Latitude>1.30812385686644</Latitude>
+		<Longitude>103.764446031934</Longitude>
+		<AgreedPrice>2500000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>95 Lorong H Telok Kurau</Address>
+		<PostalCode>426114</PostalCode>
+		<Latitude>1.31692256425746</Latitude>
+		<Longitude>103.912358202947</Longitude>
+		<AgreedPrice>5555000</AgreedPrice>
+		<PropertyType>Semi-Detached</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>118 Edgefield Plains</Address>
+		<PostalCode>820118</PostalCode>
+		<Latitude>1.39626255599683</Latitude>
+		<Longitude>103.906264526158</Longitude>
+		<AgreedPrice>480000</AgreedPrice>
+		<PropertyType>HDB 5 Rooms</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Villa Verde</Address>
+		<PostalCode>688639</PostalCode>
+		<Latitude>1.39323155999756</Latitude>
+		<Longitude>103.752300310061</Longitude>
+		<AgreedPrice>2450000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Seletar Hills Estate</Address>
+		<PostalCode>807725</PostalCode>
+		<Latitude>1.38688140912908</Latitude>
+		<Longitude>103.866931394785</Longitude>
+		<AgreedPrice>2700000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Straits Gardens</Address>
+		<PostalCode>757653</PostalCode>
+		<Latitude>1.45850696421121</Latitude>
+		<Longitude>103.838321360914</Longitude>
+		<AgreedPrice>2480000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Opera Estate</Address>
+		<PostalCode>458350</PostalCode>
+		<Latitude>1.31650028145078</Latitude>
+		<Longitude>103.927830768702</Longitude>
+		<AgreedPrice>3500000</AgreedPrice>
+		<PropertyType>Semi-Detached</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Florida Park</Address>
+		<PostalCode>806243</PostalCode>
+		<Latitude>1.39008618729243</Latitude>
+		<Longitude>103.854363453841</Longitude>
+		<AgreedPrice>2400000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Florida Park</Address>
+		<PostalCode>806243</PostalCode>
+		<Latitude>1.39008618729243</Latitude>
+		<Longitude>103.854363453841</Longitude>
+		<AgreedPrice>3800</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Fortuna Hill</Address>
+		<PostalCode>548976</PostalCode>
+		<Latitude>1.35916241862251</Latitude>
+		<Longitude>103.87628966465</Longitude>
+		<AgreedPrice>3200000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Sembawang Hills Estate</Address>
+		<PostalCode>576292</PostalCode>
+		<Latitude>1.37507779042707</Latitude>
+		<Longitude>103.827713814804</Longitude>
+		<AgreedPrice>2900000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Sembawang Springs Estate</Address>
+		<PostalCode>769417</PostalCode>
+		<Latitude>1.44267459570495</Latitude>
+		<Longitude>103.825338298316</Longitude>
+		<AgreedPrice>3088000</AgreedPrice>
+		<PropertyType>Semi-Detached</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>33a Rosyth Road</Address>
+		<PostalCode>546193</PostalCode>
+		<Latitude>1.36283089091053</Latitude>
+		<Longitude>103.87870169138</Longitude>
+		<AgreedPrice>5900000</AgreedPrice>
+		<PropertyType>Semi-Detached</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>The Teneriffe</Address>
+		<PostalCode>275870</PostalCode>
+		<Latitude>1.32723038861141</Latitude>
+		<Longitude>103.790597444868</Longitude>
+		<AgreedPrice>10000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>Loyang Villas</Address>
+		<PostalCode>507548</PostalCode>
+		<Latitude>1.361785864445</Latitude>
+		<Longitude>103.963530565338</Longitude>
+		<AgreedPrice>1750000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>26 Jalan Elok</Address>
+		<PostalCode>229064</PostalCode>
+		<Latitude>1.30640631522054</Latitude>
+		<Longitude>103.83575837767</Longitude>
+		<AgreedPrice>10500</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+	<property>
+		<Address>111a Carpmael Road</Address>
+		<PostalCode>429850</PostalCode>
+		<Latitude>1.31124833971123</Latitude>
+		<Longitude>103.899728973508</Longitude>
+		<AgreedPrice>2550000</AgreedPrice>
+		<PropertyType>Terrace</PropertyType>
+		<UnitFloor>0</UnitFloor>
+		<UnitNo>0</UnitNo>
+	</property>
+</propertyData>

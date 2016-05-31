@@ -1,0 +1,94 @@
+{
+  "extends" : "thirdParty.api",
+  "abstract" : false,
+  "root" : "https://helloapi123.appspot.com/_ah/api",
+  "name" : "ambulanceServerAPI",
+  "version" : "v1",
+  "description" : "Ambulance Call Server",
+  "defaultVersion" : false,
+  "discovery" : [ "PUBLIC" ],
+  "adapter" : {
+    "bns" : "https://helloapi123.appspot.com/_ah/spi",
+    "deadline" : 65.0,
+    "type" : "lily"
+  },
+  "auth" : {
+    "allowCookieAuth" : false
+  },
+  "frontendLimits" : {
+    "unregisteredUserQps" : -1,
+    "unregisteredQps" : -1,
+    "unregisteredDaily" : -1,
+    "rules" : [ ]
+  },
+  "cacheControl" : {
+    "type" : "no-cache",
+    "maxAge" : 0
+  },
+  "methods" : {
+    "ambulanceServerAPI.callAmbulance" : {
+      "path" : "callAmbulance/{quizResults}",
+      "httpMethod" : "POST",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.service.ambulanceServerAPI.callAmbulance",
+      "request" : {
+        "parameters" : {
+          "quizResults" : {
+            "type" : "string",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "ambulanceServerAPI.startUp" : {
+      "path" : "startUp",
+      "httpMethod" : "POST",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.service.ambulanceServerAPI.startUp",
+      "request" : {
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "empty"
+      }
+    }
+  },
+  "descriptor" : {
+    "schemas" : {
+      "ambulance" : {
+        "id" : "ambulance",
+        "type" : "object",
+        "properties" : {
+          "ambulanceName" : {
+            "type" : "string"
+          },
+          "latitude" : {
+            "type" : "number"
+          },
+          "longitude" : {
+            "type" : "number"
+          }
+        }
+      }
+    },
+    "methods" : {
+      "com.service.ambulanceServerAPI.callAmbulance" : {
+        "response" : {
+          "$ref" : "ambulance"
+        }
+      },
+      "com.service.ambulanceServerAPI.startUp" : {
+      }
+    }
+  }
+}

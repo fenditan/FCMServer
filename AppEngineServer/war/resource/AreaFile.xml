@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<areaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<area>
+		<Name>Aljunied</Name>
+		<latitude>1.31644</latitude>
+		<longitude>103.88298</longitude>
+	</area>
+	<area>
+		<Name>Ang Mo Kio</Name>
+		<latitude>1.36911</latitude>
+		<longitude>103.84543</longitude>
+	</area>
+	<area>
+		<Name>Anson Road</Name>
+		<latitude>1.27363</latitude>
+		<longitude>103.84478</longitude>
+	</area>
+	<area>
+		<Name>Ayer Rajah</Name>
+		<latitude>1.32324</latitude>
+		<longitude>103.74609</longitude>
+	</area>
+	<area>
+		<Name>Balestier Road</Name>
+		<latitude>1.32343</latitude>
+		<longitude>103.85206</longitude>
+	</area>
+	<area>
+		<Name>Bartley</Name>
+		<latitude>1.34261</latitude>
+		<longitude>103.87997</longitude>
+	</area>
+	<area>
+		<Name>Bedok</Name>
+		<latitude>1.3236</latitude>
+		<longitude>103.92734</longitude>
+	</area>
+	<area>
+		<Name>Boon Keng</Name>
+		<latitude>1.31932</latitude>
+		<longitude>103.86206</longitude>
+	</area>
+	<area>
+		<Name>Bugis</Name>
+		<latitude>1.30106</latitude>
+		<longitude>103.85599</longitude>
+	</area>
+	<area>
+		<Name>Bukit Batok</Name>
+		<latitude>1.35903</latitude>
+		<longitude>103.76368</longitude>
+	</area>
+	<area>
+		<Name>Bukit Panjang</Name>
+		<latitude>1.37741</latitude>
+		<longitude>103.77195</longitude>
+	</area>
+	<area>
+		<Name>Bukit Timah</Name>
+		<latitude>1.35482</latitude>
+		<longitude>103.7763</longitude>
+	</area>
+	<area>
+		<Name>Bouana Vista</Name>
+		<latitude>1.30729</latitude>
+		<longitude>103.79038</longitude>
+	</area>
+	<area>
+		<Name>Chinatown</Name>
+		<latitude>1.2839</latitude>
+		<longitude>103.84346</longitude>
+	</area>
+	<area>
+		<Name>Choa Chu Kang</Name>
+		<latitude>1.38398</latitude>
+		<longitude>103.74696</longitude>
+	</area>
+	<area>
+		<Name>Clementi</Name>
+		<latitude>1.31618</latitude>
+		<longitude>103.76494</longitude>
+	</area>
+	<area>
+		<Name>Geylang</Name>
+		<latitude>1.32005</latitude>
+		<longitude>103.89177</longitude>
+	</area>
+	<area>
+		<Name>Hougang</Name>
+		<latitude>1.36122</latitude>
+		<longitude>103.88625</longitude>
+	</area>
+	<area>
+		<Name>Jalan Kayu</Name>
+		<latitude>1.39538</latitude>
+		<longitude>103.87292</longitude>
+	</area>
+	<area>
+		<Name>Jurong</Name>
+		<latitude>1.30689</latitude>
+		<longitude>103.73331</longitude>
+	</area>
+	<area>
+		<Name>Jurong Island</Name>
+		<latitude>1.27596</latitude>
+		<longitude>103.6768</longitude>
+	</area>
+	<area>
+		<Name>Ten Mile Junction</Name>
+		<latitude>1.38108</latitude>
+		<longitude>103.76032</longitude>
+	</area>
+	<area>
+		<Name>Kallang</Name>
+		<latitude>1.31003</latitude>
+		<longitude>103.86511</longitude>
+	</area>
+	<area>
+		<Name>Kembangan</Name>
+		<latitude>1.32098</latitude>
+		<longitude>103.91284</longitude>
+	</area>
+	<area>
+		<Name>Kent Ridge</Name>
+		<latitude>1.29338</latitude>
+		<longitude>103.78439</longitude>
+	</area>
+	<area>
+		<Name>Labrador Park</Name>
+		<latitude>1.26657</latitude>
+		<longitude>103.80258</longitude>
+	</area>
+	<area>
+		<Name>Little India</Name>
+		<latitude>1.30635</latitude>
+		<longitude>103.84968</longitude>
+	</area>
+	<area>
+		<Name>Mac Pherson</Name>
+		<latitude>1.32675</latitude>
+		<longitude>103.88987</longitude>
+	</area>
+	<area>
+		<Name>Mandai</Name>
+		<latitude>1.42601</latitude>
+		<longitude>103.8241</longitude>
+	</area>
+	<area>
+		<Name>Marina Bay</Name>
+		<latitude>1.28779</latitude>
+		<longitude>103.86656</longitude>
+	</area>
+	<area>
+		<Name>Marine Parade</Name>
+		<latitude>1.30197</latitude>
+		<longitude>103.89708</longitude>
+	</area>
+	<area>
+		<Name>Novena</Name>
+		<latitude>1.32086</latitude>
+		<longitude>103.84243</longitude>
+	</area>
+	<area>
+		<Name>Orchard Road</Name>
+		<latitude>1.30149</latitude>
+		<longitude>103.83848</longitude>
+	</area>
+	<area>
+		<Name>Pasir Panjang</Name>
+		<latitude>1.28306</latitude>
+		<longitude>103.79111</longitude>
+	</area>
+	<area>
+		<Name>Pasir Ris</Name>
+		<latitude>1.37301</latitude>
+		<longitude>103.94925</longitude>
+	</area>
+	<area>
+		<Name>Paya Lebar</Name>
+		<latitude>1.31806</latitude>
+		<longitude>103.89301</longitude>
+	</area>
+	<area>
+		<Name>Potong Pasir</Name>
+		<latitude>1.33136</latitude>
+		<longitude>103.86928</longitude>
+	</area>
+	<area>
+		<Name>Punggol</Name>
+		<latitude>1.39845</latitude>
+		<longitude>103.9072</longitude>
+	</area>
+	<area>
+		<Name>Queenstown</Name>
+		<latitude>1.29417</latitude>
+		<longitude>103.78613</longitude>
+	</area>
+	<area>
+		<Name>Sengkang</Name>
+		<latitude>1.38681</latitude>
+		<longitude>103.89144</longitude>
+	</area>
+	<area>
+		<Name>Serangoon</Name>
+		<latitude>1.35536</latitude>
+		<longitude>103.86787</longitude>
+	</area>
+	<area>
+		<Name>Simpang</Name>
+		<latitude>1.44432</latitude>
+		<longitude>103.84277</longitude>
+	</area>
+	<area>
+		<Name>Tai Seng</Name>
+		<latitude>1.3377</latitude>
+		<longitude>103.89066</longitude>
+	</area>
+	<area>
+		<Name>Tampines</Name>
+		<latitude>1.34959</latitude>
+		<longitude>103.95679</longitude>
+	</area>
+	<area>
+		<Name>Tanjong Pagar</Name>
+		<latitude>1.27667</latitude>
+		<longitude>103.84659</longitude>
+	</area>
+	<area>
+		<Name>Teban Gardens</Name>
+		<latitude>1.32206</latitude>
+		<longitude>103.74094</longitude>
+	</area>
+	<area>
+		<Name>Telok Blangah</Name>
+		<latitude>1.27057</latitude>
+		<longitude>103.80968</longitude>
+	</area>
+	<area>
+		<Name>Tengah</Name>
+		<latitude>1.35552</latitude>
+		<longitude>103.73081</longitude>
+	</area>
+	<area>
+		<Name>Tiong Bahru</Name>
+		<latitude>1.28697</latitude>
+		<longitude>103.82861</longitude>
+	</area>
+	<area>
+		<Name>Toa Payoh</Name>
+		<latitude>1.3343</latitude>
+		<longitude>103.85633</longitude>
+	</area>
+	<area>
+		<Name>Tuas</Name>
+		<latitude>1.29495</latitude>
+		<longitude>103.63048</longitude>
+	</area>
+	<area>
+		<Name>Lim Chu Kang</Name>
+		<latitude>1.43049</latitude>
+		<longitude>103.71733</longitude>
+	</area>
+	<area>
+		<Name>Woodlands</Name>
+		<latitude>1.43819</latitude>
+		<longitude>103.78896</longitude>
+	</area>
+	<area>
+		<Name>Yishun</Name>
+		<latitude>1.43037</latitude>
+		<longitude>103.83536</longitude>
+	</area>
+	<area>
+		<Name>Yew Tee</Name>
+		<latitude>1.39757</latitude>
+		<longitude>103.74734</longitude>
+	</area>
+</areaData>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<quizType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<type>
+		<id>0</id>
+		<type>Child Care</type>
+		<format>KMZ</format>
+		<score>5</score>
+		<url>https://data.gov.sg/dataset/c985e771-8c39-4e4f-b472-00fd3d1bd6fd/resource/30f52728-6b4e-4503-87e8-4d4bbee5857a/download/childcareservices.zip</url>
+	</type>
+	<type>
+		<id>1</id>
+		<type>Primary Schools (Excluding Mixed Level Schools)</type>
+		<format>CSV</format>
+		<score>5</score>
+		<url>https://data.gov.sg/dataset/37d4e215-a5f0-40ac-aa99-9aa50bd64768/resource/a618503b-7f7f-4e01-bade-1a108ca604f5/download/list-of-all-schools-by-level-of-education.csv</url>
+	</type>
+	<type>
+		<id>2</id>
+		<type>Secondary Schools (Excluding Mixed Level Schools)</type>
+		<format>CSV</format>
+		<score>5</score>
+		<url>https://data.gov.sg/dataset/37d4e215-a5f0-40ac-aa99-9aa50bd64768/resource/a618503b-7f7f-4e01-bade-1a108ca604f5/download/list-of-all-schools-by-level-of-education.csv</url>
+	</type>
+	<type>
+		<id>3</id>
+		<type>Junior Colleges/Centralised Institute (Excluding Mixed Level Schools)</type>
+		<format>CSV</format>
+		<score>5</score>
+		<url>https://data.gov.sg/dataset/37d4e215-a5f0-40ac-aa99-9aa50bd64768/resource/a618503b-7f7f-4e01-bade-1a108ca604f5/download/list-of-all-schools-by-level-of-education.csv</url>
+	</type>
+	<type>
+		<id>4</id>
+		<type>Vet</type>
+		<format>CSV</format>
+		<score>80</score>
+		<url>https://data.gov.sg/dataset/d36f5387-1817-4ba6-8070-098a3c78aa17/resource/b2871270-4eef-44a3-be98-908e2a73b19f/download/list-of-licensed-vet-centres.csv</url>
+	</type>
+	<type>
+		<id>5</id>
+		<type>Elderly Care</type>
+		<format>KML</format>
+		<score>80</score>
+		<url>https://data.gov.sg/dataset/043dad07-1bb7-484e-8f37-dcbc772186a9/resource/d4dd1938-f687-4bdc-8861-858bdeffc826/download/eldercare-services.kml</url>
+	</type>
+	<type>
+		<id>6</id>
+		<type>SAFRA</type>
+		<format>KML</format>
+		<score>200</score>
+		<url>https://data.gov.sg/dataset/3d095da8-7899-4e91-88b9-53f5a26618b6/resource/446f4222-c86b-4250-9c55-c39e65347789/download/hsgbsafra.kml</url>
+	</type>
+	<type>
+		<id>7</id>
+		<type>NAFPA</type>
+		<format>KML</format>
+		<score>150</score>
+		<url>https://data.gov.sg/dataset/9dc6ccd1-b95c-4526-b3cc-9b3e0d0454e0/resource/3a6566f0-cf08-47fd-bd7e-bece7d5c1a29/download/hsgbnapfa.kml</url>
+	</type>
+	<type>
+		<id>8</id>
+		<type>FCC</type>
+		<format>KML</format>
+		<score>100</score>
+		<url>https://data.gov.sg/dataset/3bea8fc8-d76a-4b92-8a70-8fdce8b0207d/resource/f67dd426-e74c-43cf-9e2f-0a87ec3b6e0d/download/hsgbfcc.kml</url>
+	</type>
+	<type>
+		<id>9</id>
+		<type>Gym</type>
+		<format>KML</format>
+		<score>80</score>
+		<url>https://data.gov.sg/dataset/6e3d1ca7-2b2c-4111-830b-16c602488a8e/resource/3c31d097-863c-48c2-82de-ba63343c9580/download/exercisefacilities.kml</url>
+	</type>
+	<type>
+		<id>10</id>
+		<type>Parks</type>
+		<format>KMZ</format>
+		<score>90</score>
+		<url>https://data.gov.sg/dataset/61646de6-301d-4891-8c14-5ce299f6f61c/resource/239f4dc2-9f6f-4563-b39c-a76df96cb427/download/parkssg.zip</url>
+	</type>
+	<type>
+		<id>11</id>
+		<type>Sports Facilities</type>
+		<format>KMZ</format>
+		<score>120</score>
+		<url>https://data.gov.sg/dataset/a4ce4212-89cc-4823-9115-a52edc4343f7/resource/604257c8-2018-4cde-8b42-db09bb067bd2/download/sportsg-sport-facilities.zip</url>
+	</type>
+	<type>
+		<id>12</id>
+		<type>Water Activity</type>
+		<format>KMZ</format>
+		<score>300</score>
+		<url>https://data.gov.sg/dataset/6e149e2c-3ca2-4345-a9cd-424029eb127c/resource/25bbbbd5-bd81-4894-b0a2-f1ace5820f98/download/wateractivitiessg.zip</url>
+	</type>
+	<type>
+		<id>13</id>
+		<type>Community Club</type>
+		<format>KMZ</format>
+		<score>120</score>
+		<url>https://data.gov.sg/dataset/a769dcb8-75e6-4b20-9b62-1af1bb267fc2/resource/11c2bde9-37f2-4ac3-b3b1-3aa50163d6b0/download/communityclubs.zip</url>
+	</type>
+	<type>
+		<id>14</id>
+		<type>Hawker Center</type>
+		<format>KML</format>
+		<score>80</score>
+		<url>https://data.gov.sg/dataset/aeaf4704-5be1-4b33-993d-c70d8dcc943e/resource/d1ff19f1-f5eb-45cf-97f4-2cbd3aa4ddcf/download/hawkercentre.kml</url>
+	</type>
+	<type>
+		<id>15</id>
+		<type>Libraries</type>
+		<format>KML</format>
+		<score>200</score>
+		<url>https://data.gov.sg/dataset/6ca1a5e4-60aa-4e71-aa93-d3f6c657c8a4/resource/af80db0f-0863-4664-9413-7592c353f0f5/download/libraries.kml</url>
+	</type>
+	<type>
+		<id>16</id>
+		<type>Healthier Eateries</type>
+		<format>KMZ</format>
+		<score>10</score>
+		<url>https://data.gov.sg/dataset/1fa11dc7-2ad3-4dcf-9ec2-2aef48b133c4/resource/173211c1-9dbc-40e2-87ce-951a3e48f94e/download/healthier-eateries.zip</url>
+	</type>
+	<type>
+		<id>17</id>
+		<type>Blood Bank</type>
+		<format>KML</format>
+		<score>300</score>
+		<url>https://data.gov.sg/dataset/1c1d9f33-b37a-48ee-9345-23bbfb69dda7/resource/b46178ef-6046-4696-b1c9-888ce3780199/download/bloodbank.kml</url>
+	</type>
+	<type>
+		<id>18</id>
+		<type>Clinics</type>
+		<format>KML</format>
+		<score>10</score>
+		<url>https://data.gov.sg/dataset/31e92629-980d-4672-af33-cec147c18102/resource/59ee5fd2-4788-43ed-8151-00dc81aa3c93/download/mohchasclinics.kml</url>
+	</type>
+	<type>
+		<id>19</id>
+		<type>Quit Center</type>
+		<format>KMZ</format>
+		<score>90</score>
+		<url>https://data.gov.sg/dataset/313b851d-609e-41c9-8b8b-3c81a8efea2b/resource/a0ae0d45-a408-479c-b123-3bfb62f00523/download/quit-centres.zip</url>
+	</type>
+</quizType>
